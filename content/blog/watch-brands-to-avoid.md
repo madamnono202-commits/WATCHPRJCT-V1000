@@ -14,7 +14,7 @@ og_image: "/images/og/watch-brands-to-avoid-og.jpg"
 twitter_card: summary_large_image
 canonical: "https://wristnerd.xyz/blog/watch-brands-to-avoid/"
 word_count_target: "1,200–2,000"
-last_updated: "2026-03-15"
+last_updated: "2026-03-16"
 author: "WristNerd Editorial Team"
 pinterest_pin_ideas:
   - "Watch Brands to AVOID — Gift Buyer's Warning Guide (Shopping Tips board)"

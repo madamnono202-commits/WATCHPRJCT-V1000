@@ -88,7 +88,7 @@ The Casio G-Shock GA2100 — nicknamed the "CasiOak" by fans for its octagonal b
 
 <!-- Rating bars: CSS-only bar chart, navy fill, gold accent on active portion -->
 
-**[Check Price on Amazon →](AFFILIATE_LINK_CASIO_GSHOCK_GA2100)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B07WGJR9R2?tag=wristnerd-20)**
 <!-- CTA: Gold button, full-width within right column -->
 <!-- rel="nofollow sponsored" -->
 
@@ -241,7 +241,7 @@ The Gift-Worthiness Score measures what spec sheets can't: how impressive is thi
 **Best gift occasions:** Birthday, Christmas, Father's Day, Graduation, "Just Because"
 **Best recipients:** Sons, boyfriends, dads (active/outdoor), friends, athletes, tradespeople
 
-**[Check Price on Amazon →](AFFILIATE_LINK_CASIO_GSHOCK_GA2100)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B07WGJR9R2?tag=wristnerd-20)**
 <!-- CTA: Gold button, centered -->
 
 ---
@@ -316,7 +316,7 @@ The result is the most worry-free gift in our catalog. Shock-proof. Water-proof 
 
 If he breaks things, gets wet, lives hard, and doesn't want to think about his watch — the CasiOak is the answer.
 
-**[Check Price on Amazon →](AFFILIATE_LINK_CASIO_GSHOCK_GA2100)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B07WGJR9R2?tag=wristnerd-20)**
 
 **[Compare with Seiko 5 Sports SRPD55 →](/reviews/seiko-5-srpd55/)**
 
@@ -331,9 +331,9 @@ If he breaks things, gets wet, lives hard, and doesn't want to think about his w
 
 | Retailer | Typical Price | Link |
 |----------|---------------|------|
-| **Amazon** | $90–$120 | [Check Price →](AFFILIATE_LINK_CASIO_GSHOCK_GA2100) |
-| **Casio.com** | $99–$130 | [Check Price →](AFFILIATE_LINK_CASIO_DIRECT_GA2100) |
-| **Macy's** | $99–$130 | [Check Price →](AFFILIATE_LINK_MACYS_GSHOCK_GA2100) |
+| **Amazon** | $90–$120 | [Check Price →](https://www.amazon.com/dp/B07WGJR9R2?tag=wristnerd-20) |
+| **Casio.com** | $99–$130 | [Check Price →](https://www.casio.com/us/watches/gshock/product.GA-2100-1A1/) |
+| **Macy's** | $99–$130 | [Check Price →](https://www.macys.com/shop/watches/g-shock?id=65498&tag=wristnerd-20) |
 
 <!-- All links: rel="nofollow sponsored" -->
 

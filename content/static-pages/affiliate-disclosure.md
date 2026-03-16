@@ -11,7 +11,7 @@ og_title: "Affiliate Disclosure — WristNerd"
 og_description: "Full transparency about how WristNerd earns revenue and how affiliate relationships work."
 canonical: "https://wristnerd.xyz/affiliate-disclosure/"
 word_count_target: "800–1,200"
-last_updated: "2026-03-15"
+last_updated: "2026-03-16"
 noindex: false
 ---
 

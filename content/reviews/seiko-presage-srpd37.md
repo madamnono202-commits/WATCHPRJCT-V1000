@@ -15,7 +15,7 @@ og_image: "/images/og/seiko-presage-srpd37-review-og.jpg"
 twitter_card: summary_large_image
 canonical: "https://wristnerd.xyz/reviews/seiko-presage-srpd37/"
 word_count_target: "1,800–2,200"
-last_updated: "2026-03-15"
+last_updated: "2026-03-16"
 author: "WristNerd Editorial Team"
 pinterest_pin_ideas:
   - "Seiko Presage SRPD37 Review — Why It's the #1 Gift Watch Under $350 (Watch Reviews board)"
@@ -88,7 +88,7 @@ A stunning cocktail-inspired automatic that makes every occasion feel special. T
 
 <!-- Rating bars: CSS-only bar chart, navy fill, gold accent on active portion -->
 
-**[Check Price on Amazon →](AFFILIATE_LINK_SEIKO_PRESAGE_SRPD37)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B07QK4BXG5?tag=wristnerd-20)**
 <!-- CTA: Gold button, full-width within right column -->
 <!-- rel="nofollow sponsored" -->
 
@@ -240,7 +240,7 @@ The Gift-Worthiness Score measures what spec sheets can't: how impressive is thi
 **Best gift occasions:** Birthday, Anniversary, Valentine's Day, Christmas, Father's Day
 **Best recipients:** Husbands, boyfriends, dads, sons (graduation)
 
-**[Check Price on Amazon →](AFFILIATE_LINK_SEIKO_PRESAGE_SRPD37)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B07QK4BXG5?tag=wristnerd-20)**
 <!-- CTA: Gold button, centered -->
 
 ---
@@ -317,7 +317,7 @@ Is it perfect? No. The Hardlex crystal isn't sapphire, the case is a hair thick 
 
 At $280–$320, you're buying $600 worth of perceived value, a conversation-starting dial, and the satisfaction of knowing you gave something genuinely special. For birthdays, anniversaries, graduations, or any occasion where you want to see his face light up — this is the one.
 
-**[Check Price on Amazon →](AFFILIATE_LINK_SEIKO_PRESAGE_SRPD37)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B07QK4BXG5?tag=wristnerd-20)**
 
 **[Compare with Orient Bambino V2 →](/reviews/orient-bambino-v2/)**
 
@@ -332,9 +332,9 @@ At $280–$320, you're buying $600 worth of perceived value, a conversation-star
 
 | Retailer | Typical Price | Link |
 |----------|---------------|------|
-| **Amazon** | $280–$310 | [Check Price →](AFFILIATE_LINK_SEIKO_PRESAGE_SRPD37) |
-| **Macy's** | $295–$325 | [Check Price →](AFFILIATE_LINK_MACYS_SEIKO_PRESAGE) |
-| **Jomashop** | $265–$290 | [Check Price →](AFFILIATE_LINK_JOMASHOP_SEIKO_PRESAGE) |
+| **Amazon** | $280–$310 | [Check Price →](https://www.amazon.com/dp/B07QK4BXG5?tag=wristnerd-20) |
+| **Macy's** | $295–$325 | [Check Price →](https://www.macys.com/shop/watches/seiko?id=65498&tag=wristnerd-20) |
+| **Jomashop** | $265–$290 | [Check Price →](https://www.jomashop.com/seiko-presage.html) |
 
 <!-- All links: rel="nofollow sponsored" -->
 

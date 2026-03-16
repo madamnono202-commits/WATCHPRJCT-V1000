@@ -14,7 +14,7 @@ og_image: "/images/og/watch-deals-og.jpg"
 twitter_card: summary_large_image
 canonical: "https://wristnerd.xyz/deals/"
 word_count_target: "1,000–1,500"
-last_updated: "2026-03-15"
+last_updated: "2026-03-16"
 author: "WristNerd Editorial Team"
 pinterest_pin_ideas:
   - "Best Watch Deals This Week — Save on Gift Watches (Deals & Coupons board)"
@@ -75,7 +75,7 @@ We don't list every sale. We list the ones worth your attention.
 - **Save:** 28%
 - **Why it's great:** Solar-powered, 100m water resistant, proven Citizen quality. [Read review →](/reviews/citizen-eco-drive-bm8180/)
 
-**[See Deal on Amazon →](AFFILIATE_LINK_CITIZEN_ECODRIVE_BM8180_DEAL)**
+**[See Deal on Amazon →](https://www.amazon.com/dp/B000EQS1JW?tag=wristnerd-20)**
 
 ---
 
@@ -85,7 +85,7 @@ We don't list every sale. We list the ones worth your attention.
 - **Save:** 20%
 - **Why it's great:** The trendiest G-Shock ever. Shock-resistant, 200m water resistance, stylish octagonal design.
 
-**[See Deal on Amazon →](AFFILIATE_LINK_CASIO_GSHOCK_GA2100_DEAL)**
+**[See Deal on Amazon →](https://www.amazon.com/dp/B07WGJR9R2?tag=wristnerd-20)**
 
 ---
 
@@ -97,7 +97,7 @@ We don't list every sale. We list the ones worth your attention.
 - **Save:** 25%
 - **Why it's great:** Best-value automatic watch in existence. Domed crystal, in-house movement, looks like $400. [Read review →](/reviews/orient-bambino-v2/)
 
-**[See Deal on Amazon →](AFFILIATE_LINK_ORIENT_BAMBINO_V2_DEAL)**
+**[See Deal on Amazon →](https://www.amazon.com/dp/B01MZGZHQC?tag=wristnerd-20)**
 
 ---
 
@@ -107,7 +107,7 @@ We don't list every sale. We list the ones worth your attention.
 - **Save:** 30%
 - **Why it's great:** Stylish chronograph with the signature Fossil tin packaging. Great casual gift. [Read review →](/reviews/fossil-neutra-chronograph/)
 
-**[See Deal on Amazon →](AFFILIATE_LINK_FOSSIL_NEUTRA_DEAL)**
+**[See Deal on Amazon →](https://www.amazon.com/dp/B07B9X584N?tag=wristnerd-20)**
 
 ---
 
@@ -119,7 +119,7 @@ We don't list every sale. We list the ones worth your attention.
 - **Save:** 22%
 - **Why it's great:** 100m water resistance, in-house automatic, steel bracelet. The everyday workhorse. [Read review →](/reviews/seiko-5-srpd55/)
 
-**[See Deal on Amazon →](AFFILIATE_LINK_SEIKO_5_SRPD55_DEAL)**
+**[See Deal on Amazon →](https://www.amazon.com/dp/B07WGMQBPF?tag=wristnerd-20)**
 
 ---
 
@@ -129,7 +129,7 @@ We don't list every sale. We list the ones worth your attention.
 - **Save:** 18%
 - **Why it's great:** The watch that starts collections. Color-shifting cocktail-inspired dial, automatic movement, stunning craftsmanship. [Read review →](/reviews/seiko-presage-srpd37/)
 
-**[See Deal on Amazon →](AFFILIATE_LINK_SEIKO_PRESAGE_SRPD37_DEAL)**
+**[See Deal on Amazon →](https://www.amazon.com/dp/B07QK4BXG5?tag=wristnerd-20)**
 
 ---
 
@@ -141,7 +141,7 @@ We don't list every sale. We list the ones worth your attention.
 - **Save:** 15%
 - **Why it's great:** Swiss-made with integrated steel bracelet. The most-talked-about watch design of the decade. [Read review →](/reviews/tissot-prx/)
 
-**[See Deal on Amazon →](AFFILIATE_LINK_TISSOT_PRX_DEAL)**
+**[See Deal on Amazon →](https://www.amazon.com/dp/B08WHRY241?tag=wristnerd-20)**
 
 ---
 
@@ -151,7 +151,7 @@ We don't list every sale. We list the ones worth your attention.
 - **Save:** 16%
 - **Why it's great:** Swiss hand-wound with 80-hour power reserve. American military heritage, Swiss-made quality. [Read review →](/reviews/hamilton-khaki-field-mechanical/)
 
-**[See Deal on Amazon →](AFFILIATE_LINK_HAMILTON_KHAKI_FIELD_DEAL)**
+**[See Deal on Amazon →](https://www.amazon.com/dp/B000J179X6?tag=wristnerd-20)**
 
 ---
 

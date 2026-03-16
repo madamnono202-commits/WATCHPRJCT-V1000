@@ -88,7 +88,7 @@ The Timex Marlin Automatic is nostalgia with a heartbeat. A faithful reissue of 
 
 <!-- Rating bars: CSS-only bar chart, navy fill, gold accent on active portion -->
 
-**[Check Price on Amazon →](AFFILIATE_LINK_TIMEX_MARLIN_AUTO)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B083XVJQPD?tag=wristnerd-20)**
 <!-- CTA: Gold button, full-width within right column -->
 <!-- rel="nofollow sponsored" -->
 
@@ -245,7 +245,7 @@ The Gift-Worthiness Score measures what spec sheets can't: how impressive is thi
 **Best gift occasions:** Birthday, Anniversary, Valentine's Day, Christmas, Graduation
 **Best recipients:** Boyfriends, husbands, sons, dads (style-conscious)
 
-**[Check Price on Amazon →](AFFILIATE_LINK_TIMEX_MARLIN_AUTO)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B083XVJQPD?tag=wristnerd-20)**
 <!-- CTA: Gold button, centered -->
 
 ---
@@ -320,7 +320,7 @@ The compromises are vintage-authentic: limited water resistance, scratchable cry
 
 For the man who'd rather be interesting than impressive, the Marlin is the gift that keeps his wrist worth talking about.
 
-**[Check Price on Amazon →](AFFILIATE_LINK_TIMEX_MARLIN_AUTO)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B083XVJQPD?tag=wristnerd-20)**
 
 **[Compare with Orient Bambino V2 →](/reviews/orient-bambino-v2/)**
 
@@ -335,10 +335,10 @@ For the man who'd rather be interesting than impressive, the Marlin is the gift 
 
 | Retailer | Typical Price | Link |
 |----------|---------------|------|
-| **Amazon** | $200–$260 | [Check Price →](AFFILIATE_LINK_TIMEX_MARLIN_AUTO) |
-| **Timex.com** | $249–$279 | [Check Price →](AFFILIATE_LINK_TIMEX_DIRECT_MARLIN) |
-| **Todd Snyder** | $259–$299 | [Check Price →](AFFILIATE_LINK_TODD_SNYDER_MARLIN) |
-| **Nordstrom** | $229–$269 | [Check Price →](AFFILIATE_LINK_NORDSTROM_TIMEX_MARLIN) |
+| **Amazon** | $200–$260 | [Check Price →](https://www.amazon.com/dp/B083XVJQPD?tag=wristnerd-20) |
+| **Timex.com** | $249–$279 | [Check Price →](https://www.timex.com/marlin-automatic/) |
+| **Todd Snyder** | $259–$299 | [Check Price →](https://www.toddsnyder.com/collections/timex) |
+| **Nordstrom** | $229–$269 | [Check Price →](https://www.nordstrom.com/s/timex-marlin-automatic/) |
 
 <!-- All links: rel="nofollow sponsored" -->
 

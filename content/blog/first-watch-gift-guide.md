@@ -14,7 +14,7 @@ og_image: "/images/og/first-watch-gift-guide-og.jpg"
 twitter_card: summary_large_image
 canonical: "https://wristnerd.xyz/blog/first-watch-gift-guide/"
 word_count_target: "1,200–2,000"
-last_updated: "2026-03-15"
+last_updated: "2026-03-16"
 author: "WristNerd Editorial Team"
 pinterest_pin_ideas:
   - "His First Watch — Best Gift Picks for Every Budget (Men's Watches board)"
@@ -94,7 +94,7 @@ The [Orient Bambino V2](/reviews/orient-bambino-v2/) is the best-value automatic
 - **Why it's great as a first watch:** Maximum visual impact at minimum cost; starts the "automatic watch" conversation
 - **Gift-Worthiness:** 9.1/10
 
-**[Check Price on Amazon →](AFFILIATE_LINK_ORIENT_BAMBINO_V2)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B01MZGZHQC?tag=wristnerd-20)**
 
 ### 2. Seiko 5 SRPD55 — $220–$270
 
@@ -106,7 +106,7 @@ The [Seiko 5 SRPD55](/reviews/seiko-5-srpd55/) is the most versatile automatic w
 - **Why it's great as a first watch:** Does everything well; tough enough for daily abuse
 - **Gift-Worthiness:** 8.4/10
 
-**[Check Price on Amazon →](AFFILIATE_LINK_SEIKO_5_SRPD55)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B07WGMQBPF?tag=wristnerd-20)**
 
 ### 3. Citizen Eco-Drive BM8180 — $75–$100
 
@@ -118,7 +118,7 @@ The [Citizen Eco-Drive BM8180](/reviews/citizen-eco-drive-bm8180/) proves that q
 - **Why it's great as a first watch:** Zero maintenance + respectable quality = perfect starter
 - **Gift-Worthiness:** 7.8/10
 
-**[Check Price on Amazon →](AFFILIATE_LINK_CITIZEN_ECODRIVE_BM8180)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B000EQS1JW?tag=wristnerd-20)**
 
 ### 4. Tissot PRX — $325–$375
 
@@ -130,7 +130,7 @@ The [Tissot PRX](/reviews/tissot-prx/) is a Swiss-made style icon with an integr
 - **Why it's great as a first watch:** Instant style credibility; Swiss-made prestige
 - **Gift-Worthiness:** 8.9/10
 
-**[Check Price on Amazon →](AFFILIATE_LINK_TISSOT_PRX)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B08WHRY241?tag=wristnerd-20)**
 
 ### 5. Seiko Presage SRPD37 — $280–$320
 
@@ -142,7 +142,7 @@ The [Seiko Presage SRPD37](/reviews/seiko-presage-srpd37/) is the watch that tur
 - **Why it's great as a first watch:** Creates the deepest emotional connection; most likely to spark collecting
 - **Gift-Worthiness:** 9.2/10
 
-**[Check Price on Amazon →](AFFILIATE_LINK_SEIKO_PRESAGE_SRPD37)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B07QK4BXG5?tag=wristnerd-20)**
 
 ---
 

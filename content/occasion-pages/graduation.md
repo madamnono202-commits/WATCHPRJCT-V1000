@@ -15,7 +15,7 @@ og_image: "/images/og/graduation-gift-watches-og.jpg"
 twitter_card: summary_large_image
 canonical: "https://wristnerd.xyz/gift-guides/graduation/"
 word_count_target: "4,000–5,000"
-last_updated: "2026-03-15"
+last_updated: "2026-03-16"
 author: "WristNerd Editorial Team"
 pinterest_pin_ideas:
   - "10 Best Graduation Watches for Him 2026 — Every Budget (Graduation board)"
@@ -159,16 +159,16 @@ He's invested years beyond his bachelor's degree. The gift should match that lev
 
 | Watch | Best For | Price Range | Movement | Gift Score | |
 |-------|----------|-------------|----------|------------|---|
-| **Seiko Presage SRPD37** | Best Overall | $280–$320 | Automatic | 9.2/10 | [Check Price →](AFFILIATE_LINK_SEIKO_PRESAGE_SRPD37) |
-| **Orient Bambino V2** | Best First Watch | $130–$170 | Automatic | 9.1/10 | [Check Price →](AFFILIATE_LINK_ORIENT_BAMBINO_V2) |
-| **Citizen BM8180** | Best Under $100 | $75–$100 | Solar (Eco-Drive) | 8.0/10 | [Check Price →](AFFILIATE_LINK_CITIZEN_BM8180) |
-| **Tissot PRX** | Best for New Career | $325–$375 | Quartz (Swiss) | 8.9/10 | [Check Price →](AFFILIATE_LINK_TISSOT_PRX) |
-| **Tissot Gentleman P80** | Best Luxury | $600–$700 | Auto (Swiss) | 9.4/10 | [Check Price →](AFFILIATE_LINK_TISSOT_GENTLEMAN) |
-| **Seiko 5 Sports SRPD55** | Best Sporty | $220–$270 | Automatic | 8.4/10 | [Check Price →](AFFILIATE_LINK_SEIKO_5_SRPD55) |
-| **Casio G-Shock GA2100** | Best Rugged | $90–$120 | Quartz | 7.8/10 | [Check Price →](AFFILIATE_LINK_CASIO_GSHOCK_GA2100) |
-| **Hamilton Khaki Field** | Best Heritage | $400–$500 | Mechanical | 9.0/10 | [Check Price →](AFFILIATE_LINK_HAMILTON_KHAKI_FIELD) |
-| **Timex Marlin Automatic** | Best Vintage | $200–$250 | Automatic | 8.2/10 | [Check Price →](AFFILIATE_LINK_TIMEX_MARLIN) |
-| **Bulova Lunar Pilot** | Best Chronograph | $350–$450 | HPQ | 8.6/10 | [Check Price →](AFFILIATE_LINK_BULOVA_LUNAR_PILOT) |
+| **Seiko Presage SRPD37** | Best Overall | $280–$320 | Automatic | 9.2/10 | [Check Price →](https://www.amazon.com/dp/B07QK4BXG5?tag=wristnerd-20) |
+| **Orient Bambino V2** | Best First Watch | $130–$170 | Automatic | 9.1/10 | [Check Price →](https://www.amazon.com/dp/B01MZGZHQC?tag=wristnerd-20) |
+| **Citizen BM8180** | Best Under $100 | $75–$100 | Solar (Eco-Drive) | 8.0/10 | [Check Price →](https://www.amazon.com/dp/B000EQS1JW?tag=wristnerd-20) |
+| **Tissot PRX** | Best for New Career | $325–$375 | Quartz (Swiss) | 8.9/10 | [Check Price →](https://www.amazon.com/dp/B08WHRY241?tag=wristnerd-20) |
+| **Tissot Gentleman P80** | Best Luxury | $600–$700 | Auto (Swiss) | 9.4/10 | [Check Price →](https://www.amazon.com/dp/B07VW8MP96?tag=wristnerd-20) |
+| **Seiko 5 Sports SRPD55** | Best Sporty | $220–$270 | Automatic | 8.4/10 | [Check Price →](https://www.amazon.com/dp/B07WGMQBPF?tag=wristnerd-20) |
+| **Casio G-Shock GA2100** | Best Rugged | $90–$120 | Quartz | 7.8/10 | [Check Price →](https://www.amazon.com/dp/B07WGJR9R2?tag=wristnerd-20) |
+| **Hamilton Khaki Field** | Best Heritage | $400–$500 | Mechanical | 9.0/10 | [Check Price →](https://www.amazon.com/dp/B000J179X6?tag=wristnerd-20) |
+| **Timex Marlin Automatic** | Best Vintage | $200–$250 | Automatic | 8.2/10 | [Check Price →](https://www.amazon.com/dp/B083XVJQPD?tag=wristnerd-20) |
+| **Bulova Lunar Pilot** | Best Chronograph | $350–$450 | HPQ | 8.6/10 | [Check Price →](https://www.amazon.com/dp/B01AJE27FM?tag=wristnerd-20) |
 
 <!-- All affiliate links: rel="nofollow sponsored" -->
 
@@ -236,7 +236,7 @@ The college graduate stepping into a professional career. The young man who's re
 **Best occasions:** Graduation, Birthday, Christmas
 **Best recipients:** College Graduates, Grad School Graduates, Sons
 
-**[Check Price on Amazon →](AFFILIATE_LINK_SEIKO_PRESAGE_SRPD37)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B07QK4BXG5?tag=wristnerd-20)**
 
 [Read Full Review →](/reviews/seiko-presage-srpd37/)
 
@@ -294,7 +294,7 @@ Any young man who doesn't own a "real" watch yet. High school graduates heading 
 **Best occasions:** Graduation, 18th/21st Birthday, Christmas
 **Best recipients:** Sons, Nephews, Younger Brothers, Grandsons
 
-**[Check Price on Amazon →](AFFILIATE_LINK_ORIENT_BAMBINO_V2)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B01MZGZHQC?tag=wristnerd-20)**
 
 [Read Full Review →](/reviews/orient-bambino-v2/)
 
@@ -351,7 +351,7 @@ The high school graduate heading to college. The young man who needs a reliable,
 **Best occasions:** Graduation, 18th Birthday, Christmas
 **Best recipients:** High School Graduates, Sons, Nephews, Grandsons
 
-**[Check Price on Amazon →](AFFILIATE_LINK_CITIZEN_BM8180)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B000EQS1JW?tag=wristnerd-20)**
 
 [Read Full Review →](/reviews/citizen-eco-drive-bm8180/)
 
@@ -408,7 +408,7 @@ The college graduate starting a career in a professional field. Finance, consult
 **Best occasions:** Graduation, New Job, Birthday
 **Best recipients:** College Graduates, MBA Graduates, Sons
 
-**[Check Price on Amazon →](AFFILIATE_LINK_TISSOT_PRX)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B08WHRY241?tag=wristnerd-20)**
 
 [Read Full Review →](/reviews/tissot-prx/)
 
@@ -469,7 +469,7 @@ The graduate school graduate who put in the extraordinary work. The son, nephew,
 **Best occasions:** Graduation (Grad School), Milestone Birthday, First Job
 **Best recipients:** Grad School Graduates, Sons, Partners
 
-**[Check Price on Amazon →](AFFILIATE_LINK_TISSOT_GENTLEMAN)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B07VW8MP96?tag=wristnerd-20)**
 
 ---
 
@@ -522,7 +522,7 @@ The active graduate who's about to live hard. Gap year travelers, military recru
 **Best occasions:** Graduation, 21st Birthday, Christmas
 **Best recipients:** College Graduates, Active Young Men, Sons
 
-**[Check Price on Amazon →](AFFILIATE_LINK_SEIKO_5_SRPD55)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B07WGMQBPF?tag=wristnerd-20)**
 
 [Read Full Review →](/reviews/seiko-5-srpd55/)
 
@@ -579,7 +579,7 @@ The high school graduate heading to college. The outdoor enthusiast. The guy who
 **Best occasions:** Graduation (High School), 18th Birthday, Christmas
 **Best recipients:** High School Graduates, Active Young Men, Nephews
 
-**[Check Price on Amazon →](AFFILIATE_LINK_CASIO_GSHOCK_GA2100)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B07WGJR9R2?tag=wristnerd-20)**
 
 [Read Full Review →](/reviews/casio-g-shock-ga2100/)
 
@@ -636,7 +636,7 @@ The graduate who's earned something extraordinary. The son, godson, or nephew wh
 **Best occasions:** Graduation (College/Grad School), Commissioning, Milestone Birthday
 **Best recipients:** Sons, Godsons, Nephews — serious graduates
 
-**[Check Price on Amazon →](AFFILIATE_LINK_HAMILTON_KHAKI_FIELD)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B000J179X6?tag=wristnerd-20)**
 
 [Read Full Review →](/reviews/hamilton-khaki-field-mechanical/)
 
@@ -693,7 +693,7 @@ The creative graduate. The young man who values originality over trends, substan
 **Best occasions:** Graduation, Birthday, Christmas
 **Best recipients:** Creative Graduates, Sons, Nephews
 
-**[Check Price on Amazon →](AFFILIATE_LINK_TIMEX_MARLIN)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B083XVJQPD?tag=wristnerd-20)**
 
 [Read Full Review →](/reviews/timex-marlin-automatic/)
 
@@ -750,7 +750,7 @@ The STEM graduate. The aerospace engineer. The physics major. The history buff. 
 **Best occasions:** Graduation, Birthday, Christmas
 **Best recipients:** STEM Graduates, History-loving Graduates, Sons
 
-**[Check Price on Amazon →](AFFILIATE_LINK_BULOVA_LUNAR_PILOT)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B01AJE27FM?tag=wristnerd-20)**
 
 [Read Full Review →](/reviews/bulova-lunar-pilot/)
 

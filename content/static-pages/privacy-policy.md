@@ -11,7 +11,7 @@ og_title: "Privacy Policy — WristNerd"
 og_description: "How WristNerd collects, uses, and protects your personal information."
 canonical: "https://wristnerd.xyz/privacy/"
 word_count_target: "1,500–2,000"
-last_updated: "2026-03-15"
+last_updated: "2026-03-16"
 noindex: false
 ---
 

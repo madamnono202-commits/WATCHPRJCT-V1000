@@ -15,7 +15,7 @@ og_image: "/images/og/orient-brand-spotlight-og.jpg"
 twitter_card: summary_large_image
 canonical: "https://wristnerd.xyz/brands/orient/"
 word_count_target: "1,500–2,500"
-last_updated: "2026-03-15"
+last_updated: "2026-03-16"
 author: "WristNerd Editorial Team"
 pinterest_pin_ideas:
   - "Best Orient Watches for Gifting — Automatic Luxury Under $200 (Men's Watches board)"
@@ -115,7 +115,7 @@ At $130–$170 for an in-house automatic movement, exhibition caseback, and this
 **Best for:** Anniversary, Valentine's Day, Birthday, Christmas
 **Best recipients:** Husbands, Boyfriends, Dads who appreciate classic style
 
-**[Check Price on Amazon →](AFFILIATE_LINK_ORIENT_BAMBINO_V2)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B01MZGZHQC?tag=wristnerd-20)**
 
 [Read Full Review →](/reviews/orient-bambino-v2/)
 
@@ -160,7 +160,7 @@ The same in-house movement, the same stunning domed crystal, the same jaw-droppi
 **Best for:** Birthday, Father's Day, Graduation
 **Best recipients:** Vintage style lovers, Watch enthusiasts, Dads
 
-**[Check Price on Amazon →](AFFILIATE_LINK_ORIENT_BAMBINO_V4)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B07B4CF5CP?tag=wristnerd-20)**
 
 ---
 
@@ -206,7 +206,7 @@ This is the Orient for the active man who still wants something that looks refin
 **Best for:** Birthday, Father's Day, Graduation
 **Best recipients:** Active Dads, Outdoorsy Boyfriends, Divers
 
-**[Check Price on Amazon →](AFFILIATE_LINK_ORIENT_KAMASU)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B07R5K8KYP?tag=wristnerd-20)**
 
 ---
 
@@ -250,7 +250,7 @@ The sun/moon subdial is genuinely enchanting. A golden sun during daytime hours 
 **Best for:** Anniversary, Valentine's Day, Milestone Birthday
 **Best recipients:** Husbands, Boyfriends, Watch enthusiasts
 
-**[Check Price on Amazon →](AFFILIATE_LINK_ORIENT_SUN_MOON)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B01M0XV4JB?tag=wristnerd-20)**
 
 ---
 

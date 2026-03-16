@@ -88,7 +88,7 @@ The Fossil Neutra Chronograph is the watch that non-watch-guys actually want to 
 
 <!-- Rating bars: CSS-only bar chart, navy fill, gold accent on active portion -->
 
-**[Check Price on Amazon →](AFFILIATE_LINK_FOSSIL_NEUTRA_CHRONO)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B07B9X584N?tag=wristnerd-20)**
 <!-- CTA: Gold button, full-width within right column -->
 <!-- rel="nofollow sponsored" -->
 
@@ -239,7 +239,7 @@ The Gift-Worthiness Score measures what spec sheets can't: how impressive is thi
 **Best gift occasions:** Birthday, Christmas, Valentine's Day, Graduation
 **Best recipients:** Boyfriends, sons, friends, colleagues
 
-**[Check Price on Amazon →](AFFILIATE_LINK_FOSSIL_NEUTRA_CHRONO)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B07B9X584N?tag=wristnerd-20)**
 <!-- CTA: Gold button, centered -->
 
 ---
@@ -312,7 +312,7 @@ Here's the truth about gift-giving: most recipients don't know or care about mov
 
 The Neutra won't earn respect in watch forums. It won't spark conversations about horology. What it will do is make the recipient look good, feel appreciated, and wear it consistently — which is the entire point of a gift watch. For boyfriends, sons, friends, and colleagues in the $130–$180 range, the Fossil Neutra is the no-brainer.
 
-**[Check Price on Amazon →](AFFILIATE_LINK_FOSSIL_NEUTRA_CHRONO)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B07B9X584N?tag=wristnerd-20)**
 
 **[Compare with Orient Bambino V2 →](/reviews/orient-bambino-v2/)**
 
@@ -327,10 +327,10 @@ The Neutra won't earn respect in watch forums. It won't spark conversations abou
 
 | Retailer | Typical Price | Link |
 |----------|---------------|------|
-| **Amazon** | $130–$160 | [Check Price →](AFFILIATE_LINK_FOSSIL_NEUTRA_CHRONO) |
-| **Fossil.com** | $160–$180 | [Check Price →](AFFILIATE_LINK_FOSSIL_DIRECT_NEUTRA) |
-| **Nordstrom** | $150–$180 | [Check Price →](AFFILIATE_LINK_NORDSTROM_FOSSIL_NEUTRA) |
-| **Macy's** | $140–$170 | [Check Price →](AFFILIATE_LINK_MACYS_FOSSIL_NEUTRA) |
+| **Amazon** | $130–$160 | [Check Price →](https://www.amazon.com/dp/B07B9X584N?tag=wristnerd-20) |
+| **Fossil.com** | $160–$180 | [Check Price →](https://www.fossil.com/en-us/products/neutra-chronograph/) |
+| **Nordstrom** | $150–$180 | [Check Price →](https://www.nordstrom.com/s/fossil-neutra-chronograph/) |
+| **Macy's** | $140–$170 | [Check Price →](https://www.macys.com/shop/watches/fossil?id=65498&tag=wristnerd-20) |
 
 <!-- All links: rel="nofollow sponsored" -->
 

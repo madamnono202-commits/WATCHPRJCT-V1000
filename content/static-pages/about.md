@@ -14,7 +14,7 @@ og_image: "/images/og/about-wristnerd-og.jpg"
 twitter_card: summary_large_image
 canonical: "https://wristnerd.xyz/about/"
 word_count_target: "800–1,200"
-last_updated: "2026-03-15"
+last_updated: "2026-03-16"
 pinterest_pin_ideas:
   - "About WristNerd — Who We Are and How We Pick Watches (About board)"
 image_notes:

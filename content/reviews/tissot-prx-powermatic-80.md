@@ -15,7 +15,7 @@ og_image: "/images/og/tissot-prx-powermatic-80-review-og.jpg"
 twitter_card: summary_large_image
 canonical: "https://wristnerd.xyz/reviews/tissot-prx-powermatic-80/"
 word_count_target: "1,800–2,200"
-last_updated: "2026-03-15"
+last_updated: "2026-03-16"
 author: "WristNerd Editorial Team"
 pinterest_pin_ideas:
   - "Tissot PRX Powermatic 80 Review — Is the Automatic Worth the Upgrade? (Watch Reviews board)"
@@ -86,7 +86,7 @@ Everything the quartz PRX does — reimagined with a Swiss automatic heart and a
 | Quality | ★★★★★ 4.8 / 5 |
 | Wearability | ★★★★★ 5.0 / 5 |
 
-**[Check Price on Amazon →](AFFILIATE_LINK_TISSOT_PRX_P80)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B09GFNP3RG?tag=wristnerd-20)**
 <!-- CTA: Gold button, full-width within right column -->
 <!-- rel="nofollow sponsored" -->
 
@@ -228,7 +228,7 @@ Everything we said about the [quartz PRX's wearability](/reviews/tissot-prx/) ap
 **Best gift occasions:** Anniversary (5th, 10th), Milestone Birthday (30th, 40th), Valentine's Day, Christmas
 **Best recipients:** Husbands, boyfriends (serious relationships)
 
-**[Check Price on Amazon →](AFFILIATE_LINK_TISSOT_PRX_P80)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B09GFNP3RG?tag=wristnerd-20)**
 
 ---
 
@@ -302,7 +302,7 @@ Is it worth $125 more than the quartz? If the gift is for a birthday or Christma
 
 That's worth $125. Easily.
 
-**[Check Price on Amazon →](AFFILIATE_LINK_TISSOT_PRX_P80)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B09GFNP3RG?tag=wristnerd-20)**
 
 **[Compare with Tissot PRX Quartz →](/reviews/tissot-prx/)**
 
@@ -312,10 +312,10 @@ That's worth $125. Easily.
 
 | Retailer | Typical Price | Link |
 |----------|---------------|------|
-| **Amazon** | $450–$490 | [Check Price →](AFFILIATE_LINK_TISSOT_PRX_P80) |
-| **Tissot Official** | $495 (MSRP) | [Check Price →](AFFILIATE_LINK_TISSOT_OFFICIAL_PRX_P80) |
-| **Jomashop** | $395–$430 | [Check Price →](AFFILIATE_LINK_JOMASHOP_TISSOT_PRX_P80) |
-| **Macy's** | $450–$495 | [Check Price →](AFFILIATE_LINK_MACYS_TISSOT_PRX_P80) |
+| **Amazon** | $450–$490 | [Check Price →](https://www.amazon.com/dp/B09GFNP3RG?tag=wristnerd-20) |
+| **Tissot Official** | $495 (MSRP) | [Check Price →](https://www.tissotwatches.com/en-us/collection/tissot-prx.html) |
+| **Jomashop** | $395–$430 | [Check Price →](https://www.jomashop.com/tissot-prx-powermatic.html) |
+| **Macy's** | $450–$495 | [Check Price →](https://www.macys.com/shop/watches/tissot?id=65498&tag=wristnerd-20) |
 
 <!-- All links: rel="nofollow sponsored" -->
 

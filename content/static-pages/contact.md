@@ -12,7 +12,7 @@ og_title: "Contact Us — WristNerd"
 og_description: "Get in touch with the WristNerd team. We read every message and respond within 48 hours."
 canonical: "https://wristnerd.xyz/contact/"
 word_count_target: "400–600"
-last_updated: "2026-03-15"
+last_updated: "2026-03-16"
 image_notes:
   hero: "No image needed — clean, text-focused layout with contact form."
 ---

@@ -15,7 +15,7 @@ og_image: "/images/og/hamilton-brand-spotlight-og.jpg"
 twitter_card: summary_large_image
 canonical: "https://wristnerd.xyz/brands/hamilton/"
 word_count_target: "1,500–2,500"
-last_updated: "2026-03-15"
+last_updated: "2026-03-16"
 author: "WristNerd Editorial Team"
 pinterest_pin_ideas:
   - "Best Hamilton Watches for Gifting — Military Heritage Meets Swiss Precision (Men's Watches board)"
@@ -115,7 +115,7 @@ This is the watch with a story. It's the direct descendant of watches worn by Am
 **Best for:** Father's Day, Birthday, Graduation, Promotion
 **Best recipients:** Dads, Husbands, Sons, Heritage-loving men
 
-**[Check Price on Amazon →](AFFILIATE_LINK_HAMILTON_KHAKI_FIELD)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B000J179X6?tag=wristnerd-20)**
 
 [Read Full Review →](/reviews/hamilton-khaki-field-mechanical/)
 
@@ -163,7 +163,7 @@ The upgrade to 100m water resistance over the mechanical version makes this a mo
 **Best for:** Birthday, Anniversary, Father's Day, Christmas
 **Best recipients:** Husbands, Dads, Active professional men
 
-**[Check Price on Amazon →](AFFILIATE_LINK_HAMILTON_KHAKI_AUTO)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B0053QFWQ0?tag=wristnerd-20)**
 
 ---
 
@@ -210,7 +210,7 @@ At $700–$900, this is a special-occasion gift. But for anniversaries, landmark
 **Best for:** Anniversary, Milestone Birthday, Wedding, Valentine's Day
 **Best recipients:** Husbands, Boyfriends (serious relationships)
 
-**[Check Price on Amazon →](AFFILIATE_LINK_HAMILTON_JAZZMASTER)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B004L2JMZ6?tag=wristnerd-20)**
 
 [Read Full Review →](/reviews/hamilton-jazzmaster-open-heart/)
 
@@ -256,7 +256,7 @@ If he's a frequent flyer, an aviation enthusiast, or simply loves the rugged con
 **Best for:** Father's Day, Birthday, Retirement
 **Best recipients:** Dads, Pilots, Aviation enthusiasts, Travelers
 
-**[Check Price on Amazon →](AFFILIATE_LINK_HAMILTON_AVIATION)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B003CZRHF0?tag=wristnerd-20)**
 
 ---
 

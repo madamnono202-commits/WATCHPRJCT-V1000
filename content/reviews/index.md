@@ -13,7 +13,7 @@ og_image: "/images/og/reviews-index-og.jpg"
 twitter_card: summary_large_image
 canonical: "https://wristnerd.xyz/reviews/"
 word_count_target: "400–600"
-last_updated: "2026-03-15"
+last_updated: "2026-03-16"
 author: "WristNerd Editorial Team"
 image_notes:
   hero: "Clean editorial layout — grid of watch thumbnails or a curated 'wall of watches' composition."

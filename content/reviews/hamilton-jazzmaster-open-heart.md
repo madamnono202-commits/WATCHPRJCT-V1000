@@ -15,7 +15,7 @@ og_image: "/images/og/hamilton-jazzmaster-open-heart-review-og.jpg"
 twitter_card: summary_large_image
 canonical: "https://wristnerd.xyz/reviews/hamilton-jazzmaster-open-heart/"
 word_count_target: "1,800–2,200"
-last_updated: "2026-03-15"
+last_updated: "2026-03-16"
 author: "WristNerd Editorial Team"
 pinterest_pin_ideas:
   - "Hamilton Jazzmaster Open Heart Review — The Most Romantic Gift Watch (Watch Reviews board)"
@@ -84,7 +84,7 @@ The Hamilton Jazzmaster Open Heart is the most emotionally resonant gift watch i
 | Quality | ★★★★★ 4.7 / 5 |
 | Wearability | ★★★★½ 4.5 / 5 |
 
-**[Check Price on Amazon →](AFFILIATE_LINK_HAMILTON_JAZZMASTER)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B004L2JMZ6?tag=wristnerd-20)**
 <!-- CTA: Gold button, full-width within right column -->
 <!-- rel="nofollow sponsored" -->
 
@@ -203,7 +203,7 @@ The leather strap is the comfort highlight. Supple, slightly padded, and with a 
 **Best gift occasions:** Valentine's Day, Anniversary, Birthday (milestone), Engagement
 **Best recipients:** Husbands, boyfriends, partners — anyone where romance is the message
 
-**[Check Price on Amazon →](AFFILIATE_LINK_HAMILTON_JAZZMASTER)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B004L2JMZ6?tag=wristnerd-20)**
 
 ---
 
@@ -260,7 +260,7 @@ The versatility limitations are real: it's a dress watch, not an everyday beater
 
 For Valentine's Day, for anniversaries, for any occasion where the gift is really about the relationship — this is the one.
 
-**[Check Price on Amazon →](AFFILIATE_LINK_HAMILTON_JAZZMASTER)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B004L2JMZ6?tag=wristnerd-20)**
 
 **[Compare with Longines Conquest Classic →](/reviews/longines-conquest-classic/)**
 
@@ -270,10 +270,10 @@ For Valentine's Day, for anniversaries, for any occasion where the gift is reall
 
 | Retailer | Typical Price | Link |
 |----------|---------------|------|
-| **Amazon** | $650–$750 | [Check Price →](AFFILIATE_LINK_HAMILTON_JAZZMASTER) |
-| **Hamilton Official** | $795 (MSRP) | [Check Price →](AFFILIATE_LINK_HAMILTON_OFFICIAL_JAZZMASTER) |
-| **Jomashop** | $575–$650 | [Check Price →](AFFILIATE_LINK_JOMASHOP_HAMILTON_JAZZMASTER) |
-| **Macy's** | $675–$795 | [Check Price →](AFFILIATE_LINK_MACYS_HAMILTON_JAZZMASTER) |
+| **Amazon** | $650–$750 | [Check Price →](https://www.amazon.com/dp/B004L2JMZ6?tag=wristnerd-20) |
+| **Hamilton Official** | $795 (MSRP) | [Check Price →](https://www.hamiltonwatch.com/en-us/collection/jazzmaster.html) |
+| **Jomashop** | $575–$650 | [Check Price →](https://www.jomashop.com/hamilton-jazzmaster.html) |
+| **Macy's** | $675–$795 | [Check Price →](https://www.macys.com/shop/watches/hamilton?id=65498&tag=wristnerd-20) |
 
 <!-- All links: rel="nofollow sponsored" -->
 

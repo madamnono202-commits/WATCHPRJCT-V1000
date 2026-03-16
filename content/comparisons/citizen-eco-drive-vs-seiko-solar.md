@@ -14,7 +14,7 @@ og_image: "/images/og/citizen-eco-drive-vs-seiko-solar-og.jpg"
 twitter_card: summary_large_image
 canonical: "https://wristnerd.xyz/compare/citizen-eco-drive-vs-seiko-solar/"
 word_count_target: "2,000–3,000"
-last_updated: "2026-03-15"
+last_updated: "2026-03-16"
 author: "WristNerd Editorial Team"
 pinterest_pin_ideas:
   - "Citizen Eco-Drive vs Seiko Solar — Which Solar Watch to Gift? (Watch Comparisons board)"
@@ -53,7 +53,7 @@ Both run on light. Both never need a battery change. But Citizen's Eco-Drive and
 | **Gift-Worthiness** | 7.8 / 10 | 7.6 / 10 |
 | **Price** | $75–$100 | $130–$170 |
 
-**[Check Price →](AFFILIATE_LINK_CITIZEN_ECODRIVE_BM8180)** | **[Check Price →](AFFILIATE_LINK_SEIKO_SOLAR_SNE529)**
+**[Check Price →](https://www.amazon.com/dp/B000EQS1JW?tag=wristnerd-20)** | **[Check Price →](https://www.amazon.com/dp/B07YDBQGRY?tag=wristnerd-20)**
 
 ---
 
@@ -61,7 +61,7 @@ Both run on light. Both never need a battery change. But Citizen's Eco-Drive and
 
 **"Better value, longer heritage in solar technology, and a proven track record — the BM8180 is the smarter gift for budget-conscious shoppers."**
 
-**[Check Price on Amazon →](AFFILIATE_LINK_CITIZEN_ECODRIVE_BM8180)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B000EQS1JW?tag=wristnerd-20)**
 
 ---
 
@@ -169,7 +169,7 @@ The Citizen's strength is in the narrative: "This watch never needs a battery. I
 - He's outdoorsy or casual in style
 - You're on a budget but still want quality
 
-**[Check Price on Amazon →](AFFILIATE_LINK_CITIZEN_ECODRIVE_BM8180)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B000EQS1JW?tag=wristnerd-20)**
 
 [Read Full Review →](/reviews/citizen-eco-drive-bm8180/)
 
@@ -181,7 +181,7 @@ The Citizen's strength is in the narrative: "This watch never needs a battery. I
 - You have $130–$170 to spend
 - The Seiko brand name carries weight with him
 
-**[Check Price on Amazon →](AFFILIATE_LINK_SEIKO_SOLAR_SNE529)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B07YDBQGRY?tag=wristnerd-20)**
 
 ---
 

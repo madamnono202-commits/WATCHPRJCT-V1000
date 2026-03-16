@@ -15,7 +15,7 @@ og_image: "/images/og/hamilton-khaki-field-mechanical-review-og.jpg"
 twitter_card: summary_large_image
 canonical: "https://wristnerd.xyz/reviews/hamilton-khaki-field-mechanical/"
 word_count_target: "1,800–2,200"
-last_updated: "2026-03-15"
+last_updated: "2026-03-16"
 author: "WristNerd Editorial Team"
 pinterest_pin_ideas:
   - "Hamilton Khaki Field Review — Swiss Military Watch Under $500 (Watch Reviews board)"
@@ -86,7 +86,7 @@ The Hamilton Khaki Field Mechanical is a Swiss-made watch with a genuine militar
 | Quality | ★★★★★ 4.8 / 5 |
 | Wearability | ★★★★½ 4.6 / 5 |
 
-**[Check Price on Amazon →](AFFILIATE_LINK_HAMILTON_KHAKI_FIELD)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B000J179X6?tag=wristnerd-20)**
 <!-- CTA: Gold button, full-width within right column -->
 <!-- rel="nofollow sponsored" -->
 
@@ -229,7 +229,7 @@ The canvas NATO strap distributes weight across a wide area of the wrist and bre
 **Best gift occasions:** Father's Day, Birthday, Christmas, Graduation
 **Best recipients:** Dads, husbands, sons, friends
 
-**[Check Price on Amazon →](AFFILIATE_LINK_HAMILTON_KHAKI_FIELD)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B000J179X6?tag=wristnerd-20)**
 
 ---
 
@@ -303,7 +303,7 @@ The hand-winding ritual adds a personal dimension. Every morning, 30 seconds of 
 
 If the man you're buying for values authenticity over appearance, the Khaki Field isn't just the right choice — it's the only choice.
 
-**[Check Price on Amazon →](AFFILIATE_LINK_HAMILTON_KHAKI_FIELD)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B000J179X6?tag=wristnerd-20)**
 
 **[Compare with Tissot PRX Powermatic 80 →](/reviews/tissot-prx-powermatic-80/)**
 
@@ -313,10 +313,10 @@ If the man you're buying for values authenticity over appearance, the Khaki Fiel
 
 | Retailer | Typical Price | Link |
 |----------|---------------|------|
-| **Amazon** | $400–$450 | [Check Price →](AFFILIATE_LINK_HAMILTON_KHAKI_FIELD) |
-| **Hamilton Official** | $475 (MSRP) | [Check Price →](AFFILIATE_LINK_HAMILTON_OFFICIAL_KHAKI) |
-| **Jomashop** | $360–$395 | [Check Price →](AFFILIATE_LINK_JOMASHOP_HAMILTON_KHAKI) |
-| **Macy's** | $400–$475 | [Check Price →](AFFILIATE_LINK_MACYS_HAMILTON_KHAKI) |
+| **Amazon** | $400–$450 | [Check Price →](https://www.amazon.com/dp/B000J179X6?tag=wristnerd-20) |
+| **Hamilton Official** | $475 (MSRP) | [Check Price →](https://www.hamiltonwatch.com/en-us/collection/khaki-field.html) |
+| **Jomashop** | $360–$395 | [Check Price →](https://www.jomashop.com/hamilton-khaki-field.html) |
+| **Macy's** | $400–$475 | [Check Price →](https://www.macys.com/shop/watches/hamilton?id=65498&tag=wristnerd-20) |
 
 <!-- All links: rel="nofollow sponsored" -->
 

@@ -15,7 +15,7 @@ og_image: "/images/og/citizen-eco-drive-bm8180-review-og.jpg"
 twitter_card: summary_large_image
 canonical: "https://wristnerd.xyz/reviews/citizen-eco-drive-bm8180/"
 word_count_target: "1,800–2,200"
-last_updated: "2026-03-15"
+last_updated: "2026-03-16"
 author: "WristNerd Editorial Team"
 pinterest_pin_ideas:
   - "Citizen Eco-Drive BM8180 Review — Best Watch Gift Under $150 (Watch Reviews board)"
@@ -83,7 +83,7 @@ The Citizen Eco-Drive BM8180 is the most practical gift watch in our catalog —
 | Quality | ★★★★☆ 4.2 / 5 |
 | Wearability | ★★★★★ 5.0 / 5 |
 
-**[Check Price on Amazon →](AFFILIATE_LINK_CITIZEN_BM8180)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B000EQS1JW?tag=wristnerd-20)**
 <!-- CTA: Gold button, full-width within right column -->
 <!-- rel="nofollow sponsored" -->
 
@@ -202,7 +202,7 @@ The 18mm lug width and 37mm case mean this watch fits every wrist size in our ta
 **Best gift occasions:** Birthday, Christmas, Father's Day, Graduation, "Just Because"
 **Best recipients:** Dads, sons, friends, boyfriends, anyone who values practicality
 
-**[Check Price on Amazon →](AFFILIATE_LINK_CITIZEN_BM8180)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B000EQS1JW?tag=wristnerd-20)**
 
 ---
 
@@ -259,7 +259,7 @@ There is a profound generosity in giving someone a gift that removes problems fr
 
 For first watches, practical recipients, budget-conscious occasions, and anyone who values "it just works" above all else — the Citizen Eco-Drive BM8180 is unbeatable.
 
-**[Check Price on Amazon →](AFFILIATE_LINK_CITIZEN_BM8180)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B000EQS1JW?tag=wristnerd-20)**
 
 **[Compare with Orient Bambino V2 →](/reviews/orient-bambino-v2/)**
 
@@ -269,10 +269,10 @@ For first watches, practical recipients, budget-conscious occasions, and anyone 
 
 | Retailer | Typical Price | Link |
 |----------|---------------|------|
-| **Amazon** | $100–$130 | [Check Price →](AFFILIATE_LINK_CITIZEN_BM8180) |
-| **Citizen Official** | $140 (MSRP) | [Check Price →](AFFILIATE_LINK_CITIZEN_OFFICIAL_BM8180) |
-| **Jomashop** | $90–$115 | [Check Price →](AFFILIATE_LINK_JOMASHOP_CITIZEN_BM8180) |
-| **Macy's** | $110–$140 | [Check Price →](AFFILIATE_LINK_MACYS_CITIZEN_BM8180) |
+| **Amazon** | $100–$130 | [Check Price →](https://www.amazon.com/dp/B000EQS1JW?tag=wristnerd-20) |
+| **Citizen Official** | $140 (MSRP) | [Check Price →](https://www.citizenwatch.com/us/en/product/BM8180-03E.html) |
+| **Jomashop** | $90–$115 | [Check Price →](https://www.jomashop.com/citizen-eco-drive.html) |
+| **Macy's** | $110–$140 | [Check Price →](https://www.macys.com/shop/watches/citizen?id=65498&tag=wristnerd-20) |
 
 <!-- All links: rel="nofollow sponsored" -->
 

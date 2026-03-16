@@ -11,7 +11,7 @@ og_title: "Terms of Use — WristNerd"
 og_description: "Terms and conditions governing the use of WristNerd.xyz."
 canonical: "https://wristnerd.xyz/terms/"
 word_count_target: "1,200–1,800"
-last_updated: "2026-03-15"
+last_updated: "2026-03-16"
 noindex: false
 ---
 

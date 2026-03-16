@@ -15,7 +15,7 @@ og_image: "/images/og/seiko-5-srpd55-review-og.jpg"
 twitter_card: summary_large_image
 canonical: "https://wristnerd.xyz/reviews/seiko-5-srpd55/"
 word_count_target: "1,800–2,200"
-last_updated: "2026-03-15"
+last_updated: "2026-03-16"
 author: "WristNerd Editorial Team"
 pinterest_pin_ideas:
   - "Seiko 5 Sports SRPD55 Review — Best Everyday Automatic Under $250 (Watch Reviews board)"
@@ -84,7 +84,7 @@ The Seiko 5 Sports SRPD55 is the watch that goes everywhere and does everything 
 | Quality | ★★★★☆ 4.2 / 5 |
 | Wearability | ★★★★★ 5.0 / 5 |
 
-**[Check Price on Amazon →](AFFILIATE_LINK_SEIKO_5_SRPD55)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B07WGMQBPF?tag=wristnerd-20)**
 <!-- CTA: Gold button, full-width within right column -->
 <!-- rel="nofollow sponsored" -->
 
@@ -200,7 +200,7 @@ The 100m water resistance is the headline comfort feature. Unlike every other wa
 **Best gift occasions:** Birthday, Christmas, Father's Day, Graduation
 **Best recipients:** Sons, boyfriends, dads (active/casual lifestyle), friends
 
-**[Check Price on Amazon →](AFFILIATE_LINK_SEIKO_5_SRPD55)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B07WGMQBPF?tag=wristnerd-20)**
 
 ---
 
@@ -255,7 +255,7 @@ The 100m water resistance means he never takes it off. The rotating bezel makes 
 
 For birthdays, Christmas, and "just because" gifts — especially for men who live active, casual lives — the SRPD55 is bulletproof.
 
-**[Check Price on Amazon →](AFFILIATE_LINK_SEIKO_5_SRPD55)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B07WGMQBPF?tag=wristnerd-20)**
 
 **[Compare with Seiko Presage SRPD37 →](/reviews/seiko-presage-srpd37/)**
 
@@ -265,9 +265,9 @@ For birthdays, Christmas, and "just because" gifts — especially for men who li
 
 | Retailer | Typical Price | Link |
 |----------|---------------|------|
-| **Amazon** | $200–$240 | [Check Price →](AFFILIATE_LINK_SEIKO_5_SRPD55) |
-| **Macy's** | $225–$275 | [Check Price →](AFFILIATE_LINK_MACYS_SEIKO_5) |
-| **Jomashop** | $185–$215 | [Check Price →](AFFILIATE_LINK_JOMASHOP_SEIKO_5) |
+| **Amazon** | $200–$240 | [Check Price →](https://www.amazon.com/dp/B07WGMQBPF?tag=wristnerd-20) |
+| **Macy's** | $225–$275 | [Check Price →](https://www.macys.com/shop/watches/seiko?id=65498&tag=wristnerd-20) |
+| **Jomashop** | $185–$215 | [Check Price →](https://www.jomashop.com/seiko-5-sports.html) |
 
 <!-- All links: rel="nofollow sponsored" -->
 

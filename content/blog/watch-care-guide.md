@@ -14,7 +14,7 @@ og_image: "/images/og/watch-care-guide-og.jpg"
 twitter_card: summary_large_image
 canonical: "https://wristnerd.xyz/blog/watch-care-guide/"
 word_count_target: "1,200–2,000"
-last_updated: "2026-03-15"
+last_updated: "2026-03-16"
 author: "WristNerd Editorial Team"
 pinterest_pin_ideas:
   - "Watch Care 101 — How to Keep His Gift Watch Looking New (Men's Style board)"

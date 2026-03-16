@@ -15,7 +15,7 @@ og_image: "/images/og/fossil-brand-spotlight-og.jpg"
 twitter_card: summary_large_image
 canonical: "https://wristnerd.xyz/brands/fossil/"
 word_count_target: "1,500–2,500"
-last_updated: "2026-03-15"
+last_updated: "2026-03-16"
 author: "WristNerd Editorial Team"
 pinterest_pin_ideas:
   - "Best Fossil Watches for Men — Our Top Gift Picks (Men's Watches board)"
@@ -126,7 +126,7 @@ At $100–$140, it hits the gift-giving sweet spot: substantial enough to feel g
 **Best for:** Christmas, Birthday, Valentine's Day
 **Best recipients:** Boyfriends, Sons, Friends, Style-conscious men
 
-**[Check Price on Amazon →](AFFILIATE_LINK_FOSSIL_NEUTRA)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B07B9X584N?tag=wristnerd-20)**
 
 [Read Full Review →](/reviews/fossil-neutra-chronograph/)
 
@@ -171,7 +171,7 @@ This is the Fossil you give to the man who thinks less is more. No chronograph s
 **Best for:** Anniversary, Valentine's Day, Birthday
 **Best recipients:** Boyfriends, Husbands (minimalist style)
 
-**[Check Price on Amazon →](AFFILIATE_LINK_FOSSIL_MINIMALIST)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B00WFGEZNE?tag=wristnerd-20)**
 
 ---
 
@@ -214,7 +214,7 @@ The steel bracelet adds weight and visual impact that leather straps can't match
 **Best for:** Christmas, Birthday, Father's Day
 **Best recipients:** Dads, Husbands (rugged style), Sons
 
-**[Check Price on Amazon →](AFFILIATE_LINK_FOSSIL_MACHINE)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B008AQDX1Q?tag=wristnerd-20)**
 
 ---
 
@@ -257,7 +257,7 @@ The skeleton dial partially reveals the movement beneath, giving the watch a vis
 **Best for:** Birthday, Graduation, Christmas
 **Best recipients:** Sons, Boyfriends, entry-level watch enthusiasts
 
-**[Check Price on Amazon →](AFFILIATE_LINK_FOSSIL_GRANT_AUTO)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B01KNGQCJ6?tag=wristnerd-20)**
 
 ---
 

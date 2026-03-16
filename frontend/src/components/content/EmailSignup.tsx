@@ -6,20 +6,46 @@ interface EmailSignupProps {
   variant?: "inline" | "card";
   heading?: string;
   description?: string;
+  source?: string;
 }
 
 export default function EmailSignup({
   variant = "card",
   heading = "Get Gift Alerts & Price Drops",
   description = "Join 5,000+ smart gift-givers. We'll send seasonal picks, price drop alerts, and exclusive deals — never spam.",
+  source = "website",
 }: EmailSignupProps) {
   const [email, setEmail] = useState("");
+  const [honeypot, setHoneypot] = useState("");
   const [submitted, setSubmitted] = useState(false);
+  const [error, setError] = useState("");
+  const [loading, setLoading] = useState(false);
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    if (email) {
-      setSubmitted(true);
+    if (!email) return;
+
+    setLoading(true);
+    setError("");
+
+    try {
+      const res = await fetch("/api/subscribe", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ email, honeypot, source }),
+      });
+
+      const data = await res.json();
+
+      if (!res.ok) {
+        setError(data.error || "Something went wrong. Please try again.");
+      } else {
+        setSubmitted(true);
+      }
+    } catch {
+      setError("Network error. Please try again.");
+    } finally {
+      setLoading(false);
     }
   };
 
@@ -33,6 +59,16 @@ export default function EmailSignup({
         ) : (
           <>
             <input
+              type="text"
+              name="website"
+              value={honeypot}
+              onChange={(e) => setHoneypot(e.target.value)}
+              tabIndex={-1}
+              autoComplete="off"
+              className="absolute opacity-0 h-0 w-0 overflow-hidden"
+              aria-hidden="true"
+            />
+            <input
               type="email"
               value={email}
               onChange={(e) => setEmail(e.target.value)}
@@ -42,10 +78,14 @@ export default function EmailSignup({
             />
             <button
               type="submit"
-              className="px-5 py-2.5 bg-gold text-white font-semibold rounded-lg hover:bg-gold-hover transition-colors text-sm whitespace-nowrap"
+              disabled={loading}
+              className="px-5 py-2.5 bg-gold text-white font-semibold rounded-lg hover:bg-gold-hover transition-colors text-sm whitespace-nowrap disabled:opacity-60"
             >
-              Subscribe
+              {loading ? "..." : "Subscribe"}
             </button>
+            {error && (
+              <p className="text-red-500 text-xs mt-1">{error}</p>
+            )}
           </>
         )}
       </form>
@@ -65,6 +105,16 @@ export default function EmailSignup({
       ) : (
         <form onSubmit={handleSubmit} className="flex flex-col sm:flex-row gap-2 max-w-lg">
           <input
+            type="text"
+            name="website"
+            value={honeypot}
+            onChange={(e) => setHoneypot(e.target.value)}
+            tabIndex={-1}
+            autoComplete="off"
+            className="absolute opacity-0 h-0 w-0 overflow-hidden"
+            aria-hidden="true"
+          />
+          <input
             type="email"
             value={email}
             onChange={(e) => setEmail(e.target.value)}
@@ -74,11 +124,15 @@ export default function EmailSignup({
           />
           <button
             type="submit"
-            className="px-6 py-3 bg-gold text-white font-semibold rounded-lg hover:bg-gold-hover transition-colors text-sm whitespace-nowrap"
+            disabled={loading}
+            className="px-6 py-3 bg-gold text-white font-semibold rounded-lg hover:bg-gold-hover transition-colors text-sm whitespace-nowrap disabled:opacity-60"
           >
-            Send Me Deals
+            {loading ? "Subscribing..." : "Send Me Deals"}
           </button>
         </form>
+      )}
+      {error && (
+        <p className="text-red-500 text-xs mt-2">{error}</p>
       )}
       <p className="text-xs text-gray-400 mt-3">
         Unsubscribe anytime. No spam, ever.
