@@ -93,20 +93,20 @@ export default function EmailSignup({
   }
 
   return (
-    <div className="relative overflow-hidden bg-gradient-to-br from-navy via-navy to-navy-dark rounded-2xl p-8 md:p-10 my-10 shadow-lg">
+    <div className="relative overflow-hidden bg-navy-dark rounded-2xl p-8 md:p-12 my-10 grain-overlay">
       {/* Decorative elements */}
-      <div className="absolute top-0 right-0 w-64 h-64 bg-gold/5 rounded-full -translate-y-1/2 translate-x-1/2" />
-      <div className="absolute bottom-0 left-0 w-32 h-32 bg-gold/5 rounded-full translate-y-1/2 -translate-x-1/2" />
+      <div className="absolute top-[-20%] right-[-10%] w-[300px] h-[300px] bg-gold/[0.03] rounded-full blur-[100px]" />
+      <div className="absolute bottom-[-15%] left-[-8%] w-[200px] h-[200px] bg-navy-light/10 rounded-full blur-[80px]" />
 
       <div className="relative z-10">
-        <div className="flex items-center gap-2 mb-3">
-          <div className="h-px w-8 bg-gold/60" />
-          <span className="text-gold text-xs font-bold uppercase tracking-[0.12em]">Newsletter</span>
+        <div className="flex items-center gap-3 mb-4">
+          <div className="h-px w-10 bg-gradient-to-r from-transparent to-gold/50" />
+          <span className="editorial-label">Newsletter</span>
         </div>
-        <h3 className="text-xl md:text-2xl font-heading font-semibold text-white mb-2">
+        <h3 className="text-xl md:text-2xl font-heading font-medium text-white mb-3 tracking-[-0.01em]">
           {heading}
         </h3>
-        <p className="text-sm text-gray-300 mb-6 max-w-lg leading-relaxed">{description}</p>
+        <p className="text-sm text-gray-400 mb-7 max-w-lg leading-[1.7]">{description}</p>
         {submitted ? (
           <div className="flex items-center gap-2 text-emerald-400 font-medium">
             <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -146,7 +146,7 @@ export default function EmailSignup({
         {error && (
           <p className="text-red-400 text-xs mt-3">{error}</p>
         )}
-        <p className="text-xs text-gray-500 mt-4">
+        <p className="text-xs text-gray-500 mt-5 tracking-wide">
           Unsubscribe anytime. No spam, ever.
         </p>
       </div>

@@ -1,15 +1,15 @@
 import type { Metadata } from "next";
-import { Playfair_Display, Inter } from "next/font/google";
+import { Cormorant_Garamond, Inter } from "next/font/google";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import GoogleAnalytics from "@/components/analytics/GoogleAnalytics";
 import "./globals.css";
 
-const playfair = Playfair_Display({
+const cormorant = Cormorant_Garamond({
   variable: "--font-heading",
   subsets: ["latin"],
   display: "swap",
-  weight: ["400", "600", "700"],
+  weight: ["400", "500", "600", "700"],
 });
 
 const inter = Inter({
@@ -47,7 +47,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${playfair.variable} ${inter.variable} antialiased`}>
+      <body className={`${cormorant.variable} ${inter.variable} antialiased`}>
         {process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID && (
           <GoogleAnalytics measurementId={process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID} />
         )}

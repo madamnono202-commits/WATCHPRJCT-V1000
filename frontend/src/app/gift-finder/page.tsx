@@ -282,17 +282,17 @@ export default function GiftFinderPage() {
     const results = getRecommendations(answers as Answers);
 
     return (
-      <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-16 lg:py-20">
-        <div className="text-center mb-12">
-          <div className="flex items-center justify-center gap-3 mb-4">
-            <div className="h-px w-8 bg-gold/50" />
-            <span className="text-gold text-xs font-bold uppercase tracking-[0.15em]">Your Results</span>
-            <div className="h-px w-8 bg-gold/50" />
+      <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-20 lg:py-28">
+        <div className="text-center mb-14">
+          <div className="flex items-center justify-center gap-4 mb-5">
+            <div className="h-px w-10 bg-gradient-to-r from-transparent to-gold/50" />
+            <span className="editorial-label">Your Results</span>
+            <div className="h-px w-10 bg-gradient-to-l from-transparent to-gold/50" />
           </div>
-          <h1 className="text-3xl md:text-4xl font-heading font-bold text-navy mb-4">
+          <h1 className="text-3xl md:text-4xl lg:text-5xl font-heading font-medium text-navy mb-5 tracking-[-0.02em]">
             Your Perfect Watch Matches
           </h1>
-          <p className="text-gray-500 leading-relaxed">
+          <p className="text-gray-500 leading-[1.7]">
             Based on your answers, here are the watches we recommend &mdash; sorted by
             Gift-Worthiness Score.
           </p>
@@ -314,36 +314,36 @@ export default function GiftFinderPage() {
                 </span>
               )}
               {i === 1 && (
-                <span className="inline-block px-3 py-1 bg-navy text-white text-xs font-bold rounded-full mb-4 uppercase tracking-[0.08em]">
+                <span className="inline-block px-3 py-1 bg-navy text-white text-[0.6rem] font-semibold rounded-full mb-4 uppercase tracking-[0.15em]">
                   Runner-Up
                 </span>
               )}
               {i === 2 && (
-                <span className="inline-block px-3 py-1 bg-gray-400 text-white text-xs font-bold rounded-full mb-4 uppercase tracking-[0.08em]">
+                <span className="inline-block px-3 py-1 bg-gray-400 text-white text-[0.6rem] font-semibold rounded-full mb-4 uppercase tracking-[0.15em]">
                   Also Consider
                 </span>
               )}
 
               <div className="flex flex-col md:flex-row gap-6">
-                <div className="w-full md:w-44 h-44 bg-gradient-to-br from-gray-50 to-gray-100 rounded-2xl flex items-center justify-center shrink-0">
-                  <span className="text-gray-300 text-sm">Watch Image</span>
+                <div className="w-full md:w-44 h-44 img-placeholder rounded-2xl shrink-0">
+                  <span className="text-gray-300 text-sm relative z-10">Watch Image</span>
                 </div>
                 <div className="flex-1">
-                  <h2 className="text-xl font-heading font-semibold text-navy mb-2">
+                  <h2 className="text-xl font-heading font-medium text-navy mb-2.5 tracking-[-0.01em]">
                     {watch.name}
                   </h2>
                   <div className="flex flex-wrap items-center gap-3 mb-3">
-                    <span className="text-sm font-bold text-emerald-600">
+                    <span className="text-sm font-heading font-semibold text-gold-dark">
                       Gift Score: {watch.gift_worthiness_score}/10
                     </span>
                     <span className="text-sm text-gray-500">
                       {watch.price_range}
                     </span>
-                    <span className="text-xs text-gray-400 capitalize px-2 py-0.5 bg-gray-100 rounded-full">
+                    <span className="text-[0.65rem] text-gray-400 capitalize px-2.5 py-1 bg-gray-50 rounded-full tracking-wide">
                       {watch.movement}
                     </span>
                   </div>
-                  <p className="text-gray-600 mb-5 leading-relaxed">{watch.one_liner}</p>
+                  <p className="text-gray-500 mb-5 leading-[1.7]">{watch.one_liner}</p>
                   <div className="flex flex-wrap gap-3">
                     <a
                       href="#"
@@ -370,8 +370,8 @@ export default function GiftFinderPage() {
         </div>
 
         {results.length === 0 && (
-          <div className="text-center py-16 bg-gray-50 rounded-2xl">
-            <p className="text-gray-500 mb-6 leading-relaxed">
+          <div className="text-center py-20 bg-cream rounded-2xl">
+            <p className="text-gray-500 mb-6 leading-[1.7]">
               We couldn&apos;t find watches matching all your criteria. Try adjusting
               your budget or style preference.
             </p>
@@ -413,17 +413,17 @@ export default function GiftFinderPage() {
   const step = steps[currentStep];
 
   return (
-    <div className="max-w-2xl mx-auto px-4 sm:px-6 lg:px-8 py-16 lg:py-20">
-      <div className="text-center mb-12">
-        <div className="flex items-center justify-center gap-3 mb-4">
-          <div className="h-px w-8 bg-gold/50" />
-          <span className="text-gold text-xs font-bold uppercase tracking-[0.15em]">60-Second Quiz</span>
-          <div className="h-px w-8 bg-gold/50" />
+    <div className="max-w-2xl mx-auto px-4 sm:px-6 lg:px-8 py-20 lg:py-28">
+      <div className="text-center mb-14">
+        <div className="flex items-center justify-center gap-4 mb-5">
+          <div className="h-px w-10 bg-gradient-to-r from-transparent to-gold/50" />
+          <span className="editorial-label">60-Second Quiz</span>
+          <div className="h-px w-10 bg-gradient-to-l from-transparent to-gold/50" />
         </div>
-        <h1 className="text-3xl md:text-4xl font-heading font-bold text-navy mb-3">
+        <h1 className="text-3xl md:text-4xl lg:text-5xl font-heading font-medium text-navy mb-4 tracking-[-0.02em]">
           Watch Gift Finder Quiz
         </h1>
-        <p className="text-gray-500 leading-relaxed">
+        <p className="text-gray-500 leading-[1.7]">
           Answer 4 quick questions and get personalized watch recommendations in
           60 seconds.
         </p>
@@ -441,21 +441,21 @@ export default function GiftFinderPage() {
         ))}
       </div>
 
-      <p className="text-xs text-gray-400 mb-2 uppercase tracking-wider font-medium">
+      <p className="text-[0.6rem] text-gray-400 mb-3 uppercase tracking-[0.2em] font-medium">
         Step {currentStep + 1} of {steps.length}
       </p>
-      <h2 className="text-2xl font-heading font-semibold text-navy mb-6">
+      <h2 className="text-2xl md:text-3xl font-heading font-medium text-navy mb-7 tracking-[-0.01em]">
         {step.title}
       </h2>
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+      <div className="grid grid-cols-1 sm:grid-cols-2 gap-3.5">
         {step.options.map((option) => (
           <button
             key={option.value}
             onClick={() => handleSelect(option.value)}
-            className="luxury-card p-5 text-left group hover:border-gold/50 hover:bg-gold-50/30"
+            className="luxury-card p-6 text-left group hover:border-gold/40 hover:bg-gold-50/20 transition-all duration-300"
           >
-            <span className="text-base font-medium text-navy group-hover:text-gold transition-colors duration-300">
+            <span className="text-base font-heading font-medium text-navy group-hover:text-gold transition-colors duration-300">
               {option.label}
             </span>
           </button>

@@ -4,32 +4,37 @@ import Link from "next/link";
 
 export default function Footer() {
   return (
-    <footer className="bg-gradient-to-b from-navy to-navy-dark text-white">
-      {/* Top Divider */}
-      <div className="section-divider" />
+    <footer className="bg-gradient-to-b from-navy-dark to-navy-950 text-white relative overflow-hidden">
+      {/* Decorative Orbs */}
+      <div className="absolute top-0 right-0 w-[500px] h-[500px] rounded-full bg-gold/[0.02] blur-[120px]" />
+      <div className="absolute bottom-0 left-0 w-[400px] h-[400px] rounded-full bg-navy-light/10 blur-[100px]" />
 
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 lg:py-20">
+      {/* Gold Divider Line */}
+      <div className="h-px bg-gradient-to-r from-transparent via-gold/30 to-transparent" />
+
+      <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 lg:py-24">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 lg:gap-12">
           {/* Brand */}
           <div className="lg:pr-8">
-            <Link href="/" className="inline-flex items-center">
-              <span className="text-2xl font-bold font-heading text-white tracking-tight">
+            <Link href="/" className="inline-flex items-baseline gap-0.5">
+              <span className="text-[1.75rem] font-medium font-heading text-white tracking-[-0.02em]">
                 Wrist
               </span>
-              <span className="text-2xl font-bold font-heading gradient-text tracking-tight">
+              <span className="text-[1.75rem] font-medium font-heading gradient-text tracking-[-0.02em]">
                 Nerd
               </span>
+              <span className="w-1.5 h-1.5 rounded-full bg-gold ml-0.5 mb-1" />
             </Link>
-            <p className="mt-4 text-sm text-gray-300 leading-relaxed">
+            <p className="mt-5 text-sm text-gray-400 leading-[1.8] max-w-xs">
               Expert watch gift guides, honest reviews, and a proprietary
               Gift-Worthiness Score to help you find the perfect watch for him.
             </p>
-            <div className="mt-5 h-px w-12 bg-gold/40" />
+            <div className="mt-6 h-px w-12 bg-gradient-to-r from-gold/60 to-transparent" />
           </div>
 
           {/* Gift Guides */}
           <div>
-            <h3 className="text-xs font-bold uppercase tracking-[0.12em] text-gold mb-5">
+            <h3 className="text-[0.6875rem] font-semibold uppercase tracking-[0.2em] text-gold mb-6">
               Gift Guides
             </h3>
             <ul className="space-y-3">
@@ -63,7 +68,7 @@ export default function Footer() {
 
           {/* Resources */}
           <div>
-            <h3 className="text-xs font-bold uppercase tracking-[0.12em] text-gold mb-5">
+            <h3 className="text-[0.6875rem] font-semibold uppercase tracking-[0.2em] text-gold mb-6">
               Resources
             </h3>
             <ul className="space-y-3">
@@ -92,7 +97,7 @@ export default function Footer() {
 
           {/* Company */}
           <div>
-            <h3 className="text-xs font-bold uppercase tracking-[0.12em] text-gold mb-5">
+            <h3 className="text-[0.6875rem] font-semibold uppercase tracking-[0.2em] text-gold mb-6">
               Company
             </h3>
             <ul className="space-y-3">
@@ -126,23 +131,24 @@ export default function Footer() {
         </div>
 
         {/* Email Signup */}
-        <div className="mt-14 pt-10 border-t border-white/10">
+        <div className="mt-16 pt-12 border-t border-white/[0.06]">
           <div className="max-w-xl">
-            <h3 className="text-lg font-heading font-semibold mb-2 text-white">
+            <p className="editorial-label mb-3">Stay Informed</p>
+            <h3 className="text-2xl font-heading font-medium mb-3 text-white tracking-[-0.02em]">
               Get Gift Alerts & Deals
             </h3>
-            <p className="text-sm text-gray-400 mb-5">
+            <p className="text-sm text-gray-400 mb-6 leading-relaxed">
               Price drops, seasonal picks, and gift guides &mdash; delivered when it matters.
             </p>
             <form className="flex flex-col sm:flex-row gap-3" onSubmit={(e) => e.preventDefault()}>
               <input
                 type="email"
                 placeholder="Your email address"
-                className="flex-1 px-5 py-3 rounded-full bg-white/10 border border-white/15 text-white placeholder-gray-400 text-sm focus:outline-none focus:ring-2 focus:ring-gold focus:border-transparent transition-all"
+                className="flex-1 px-6 py-3.5 rounded-full bg-white/[0.06] border border-white/10 text-white placeholder-gray-500 text-sm focus:outline-none focus:ring-2 focus:ring-gold/40 focus:border-gold/30 transition-all duration-300"
               />
               <button
                 type="submit"
-                className="px-7 py-3 cta-shine text-white font-semibold rounded-full text-sm whitespace-nowrap"
+                className="px-8 py-3.5 cta-shine text-white font-semibold rounded-full text-sm whitespace-nowrap tracking-wide"
               >
                 Subscribe
               </button>
@@ -151,8 +157,8 @@ export default function Footer() {
         </div>
 
         {/* Bottom */}
-        <div className="mt-10 pt-8 border-t border-white/10 flex flex-col sm:flex-row justify-between items-center gap-4">
-          <p className="text-xs text-gray-500">
+        <div className="mt-12 pt-8 border-t border-white/[0.06] flex flex-col sm:flex-row justify-between items-center gap-4">
+          <p className="text-[0.6875rem] text-gray-500 tracking-wide">
             &copy; {new Date().getFullYear()} WristNerd. All rights reserved.
             As an Amazon Associate, WristNerd earns from qualifying purchases.
           </p>

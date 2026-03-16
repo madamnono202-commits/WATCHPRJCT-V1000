@@ -18,12 +18,27 @@ export default async function TermsOfUsePage() {
   const schema = getSchemaFromPage(page);
 
   return (
-    <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <>
       {schema && <SchemaMarkup schema={schema} />}
-      <Breadcrumb items={[{ label: "Terms of Use" }]} />
-      <article className="prose max-w-none">
-        <div dangerouslySetInnerHTML={{ __html: htmlContent }} />
-      </article>
-    </div>
+
+      <section className="bg-navy-dark text-white py-16 md:py-24 relative overflow-hidden grain-overlay">
+        <div className="absolute inset-0">
+          <div className="absolute top-[-10%] right-[-5%] w-[350px] h-[350px] bg-gold/[0.03] rounded-full blur-[120px]" />
+        </div>
+        <div className="relative max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 z-10">
+          <Breadcrumb items={[{ label: "Terms of Use" }]} />
+          <h1 className="text-3xl md:text-4xl lg:text-5xl font-heading font-medium text-white tracking-[-0.02em]">
+            Terms of Use
+          </h1>
+        </div>
+        <div className="absolute bottom-0 left-0 right-0 h-20 bg-gradient-to-t from-ivory to-transparent" />
+      </section>
+
+      <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-14 lg:py-20">
+        <article className="prose max-w-none">
+          <div dangerouslySetInnerHTML={{ __html: htmlContent }} />
+        </article>
+      </div>
+    </>
   );
 }

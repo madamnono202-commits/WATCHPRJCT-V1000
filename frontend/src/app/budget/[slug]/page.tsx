@@ -35,24 +35,25 @@ export default async function BudgetPage({ params }: PageProps) {
       {schema && <SchemaMarkup schema={schema} />}
 
       {/* Hero Banner */}
-      <section className="bg-gradient-to-br from-navy-dark via-navy to-navy-light text-white py-12 md:py-16 relative overflow-hidden">
-        <div className="absolute inset-0 opacity-10">
-          <div className="absolute top-10 right-20 w-64 h-64 bg-gold rounded-full blur-3xl" />
+      <section className="bg-navy-dark text-white py-16 md:py-24 relative overflow-hidden grain-overlay">
+        <div className="absolute inset-0">
+          <div className="absolute top-[-10%] right-[-5%] w-[350px] h-[350px] bg-gold/[0.03] rounded-full blur-[120px]" />
         </div>
-        <div className="relative max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="relative max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 z-10">
           <Breadcrumb
             items={[
               { label: "Best Watches by Budget", href: "/" },
               { label: page.frontmatter.title },
             ]}
           />
-          <h1 className="text-3xl md:text-4xl lg:text-5xl font-heading font-bold text-white leading-tight">
+          <h1 className="text-3xl md:text-4xl lg:text-5xl font-heading font-medium text-white tracking-[-0.02em]">
             {page.frontmatter.title}
           </h1>
         </div>
+        <div className="absolute bottom-0 left-0 right-0 h-20 bg-gradient-to-t from-ivory to-transparent" />
       </section>
 
-      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12 lg:py-16">
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-14 lg:py-20">
         <article className="prose max-w-none">
           <div dangerouslySetInnerHTML={{ __html: htmlContent }} />
         </article>

@@ -55,12 +55,11 @@ function NavDropdown({ label, links, isOpen, onToggle, onClose }: DropdownProps)
     <div className="relative" ref={dropdownRef}>
       <button
         onClick={onToggle}
-        className="flex items-center gap-1.5 px-3 py-2 text-xs font-medium text-gray-600 hover:text-navy transition-all duration-200 uppercase"
-        style={{ letterSpacing: "0.06em" }}
+        className="flex items-center gap-1.5 px-3 py-2 text-[0.6875rem] font-medium text-gray-500 hover:text-navy transition-all duration-300 uppercase tracking-[0.15em]"
       >
         {label}
         <svg
-          className={`w-3.5 h-3.5 transition-transform duration-300 ${isOpen ? "rotate-180" : ""}`}
+          className={`w-3 h-3 transition-transform duration-300 ${isOpen ? "rotate-180" : ""}`}
           fill="none"
           viewBox="0 0 24 24"
           stroke="currentColor"
@@ -69,7 +68,7 @@ function NavDropdown({ label, links, isOpen, onToggle, onClose }: DropdownProps)
         </svg>
       </button>
       <div
-        className={`absolute left-0 top-full mt-2 w-56 bg-white border border-gray-100 rounded-xl shadow-xl z-50 transition-all duration-200 origin-top ${
+        className={`absolute left-0 top-full mt-3 w-60 bg-white border border-gray-100 rounded-2xl shadow-[0_12px_48px_rgba(22,32,64,0.08)] z-50 transition-all duration-300 origin-top ${
           isOpen
             ? "opacity-100 scale-100 translate-y-0"
             : "opacity-0 scale-95 -translate-y-2 pointer-events-none"
@@ -81,7 +80,7 @@ function NavDropdown({ label, links, isOpen, onToggle, onClose }: DropdownProps)
               key={link.href}
               href={link.href}
               onClick={onClose}
-              className="block px-5 py-2.5 text-sm text-gray-600 hover:text-navy hover:bg-gold-50 transition-all duration-200 border-l-2 border-transparent hover:border-gold"
+              className="block px-6 py-3 text-sm text-gray-500 hover:text-navy hover:bg-gold-50 transition-all duration-300 border-l-2 border-transparent hover:border-gold"
             >
               {link.label}
             </Link>
@@ -111,37 +110,41 @@ export default function Header() {
 
   return (
     <header
-      className={`sticky top-0 z-50 transition-all duration-300 ${
+      className={`sticky top-0 z-50 transition-all duration-500 ${
         scrolled
-          ? "glass border-b border-gray-200/60 shadow-sm"
-          : "bg-white border-b border-gray-200"
+          ? "glass border-b border-gray-200/40 shadow-[0_1px_24px_rgba(22,32,64,0.04)]"
+          : "bg-ivory border-b border-gray-200/60"
       }`}
     >
       {/* Announcement Bar */}
-      <div className="bg-gradient-to-r from-navy-dark via-navy to-navy-dark text-white text-center py-2.5 px-4 text-sm">
-        <span className="opacity-80">Free Gift Guide:</span>{" "}
-        <span className="font-medium">Find the perfect watch in 60 seconds</span>{" "}
-        <Link
-          href="/gift-finder"
-          className="inline-flex items-center gap-1 underline font-semibold text-gold hover:text-gold-hover transition-colors ml-1"
-        >
-          Take the Quiz
-          <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-          </svg>
-        </Link>
+      <div className="bg-gradient-to-r from-navy-950 via-navy-dark to-navy-950 text-white text-center py-2 px-4">
+        <span className="text-[0.6875rem] tracking-[0.08em] uppercase">
+          <span className="text-gray-400">Free Gift Guide</span>
+          <span className="mx-2 text-gold/40">|</span>
+          <span className="text-gray-200">Find the perfect watch in 60 seconds</span>
+          <Link
+            href="/gift-finder"
+            className="inline-flex items-center gap-1 text-gold hover:text-gold-hover transition-colors duration-300 ml-2 font-medium"
+          >
+            Take the Quiz
+            <svg className="w-3 h-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+            </svg>
+          </Link>
+        </span>
       </div>
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-[72px]">
           {/* Logo */}
-          <Link href="/" className="flex items-center gap-2 group">
-            <span className="text-2xl font-bold font-heading text-navy tracking-tight">
+          <Link href="/" className="flex items-baseline gap-0.5 group">
+            <span className="text-[1.75rem] font-medium font-heading text-navy tracking-[-0.02em] transition-colors duration-300">
               Wrist
             </span>
-            <span className="text-2xl font-bold font-heading gradient-text tracking-tight -ml-2">
+            <span className="text-[1.75rem] font-medium font-heading gradient-text tracking-[-0.02em]">
               Nerd
             </span>
+            <span className="w-1.5 h-1.5 rounded-full bg-gold ml-0.5 mb-1 group-hover:animate-pulse-gold" />
           </Link>
 
           {/* Desktop Nav */}
@@ -169,22 +172,19 @@ export default function Header() {
             />
             <Link
               href="/reviews"
-              className="px-3 py-2 text-xs font-medium text-gray-600 hover:text-navy transition-all duration-200 uppercase"
-              style={{ letterSpacing: "0.06em" }}
+              className="px-3 py-2 text-[0.6875rem] font-medium text-gray-500 hover:text-navy transition-all duration-300 uppercase tracking-[0.15em]"
             >
               Reviews
             </Link>
             <Link
               href="/blog"
-              className="px-3 py-2 text-xs font-medium text-gray-600 hover:text-navy transition-all duration-200 uppercase"
-              style={{ letterSpacing: "0.06em" }}
+              className="px-3 py-2 text-[0.6875rem] font-medium text-gray-500 hover:text-navy transition-all duration-300 uppercase tracking-[0.15em]"
             >
               Blog
             </Link>
             <Link
               href="/deals"
-              className="px-3 py-2 text-xs font-medium text-gray-600 hover:text-navy transition-all duration-200 uppercase"
-              style={{ letterSpacing: "0.06em" }}
+              className="px-3 py-2 text-[0.6875rem] font-medium text-gray-500 hover:text-navy transition-all duration-300 uppercase tracking-[0.15em]"
             >
               Deals
             </Link>
@@ -193,7 +193,7 @@ export default function Header() {
           {/* Quiz CTA */}
           <Link
             href="/gift-finder"
-            className="hidden lg:inline-flex items-center gap-2 px-6 py-2.5 cta-shine text-white text-sm font-semibold rounded-full hover:shadow-lg transition-all duration-300"
+            className="hidden lg:inline-flex items-center gap-2 px-7 py-2.5 cta-shine text-white text-[0.8125rem] font-semibold rounded-full hover:shadow-lg transition-all duration-300 tracking-wide"
           >
             <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
