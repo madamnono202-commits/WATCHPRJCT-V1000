@@ -123,7 +123,7 @@ export default function Header() {
               Reviews
             </Link>
             <Link
-              href="/blog/watch-engraving-ideas"
+              href="/blog"
               className="px-3 py-2 text-sm font-medium text-gray-700 hover:text-navy transition-colors"
             >
               Blog

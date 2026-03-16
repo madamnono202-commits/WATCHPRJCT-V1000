@@ -15,7 +15,7 @@ og_image: "/images/og/tissot-gentleman-powermatic-80-review-og.jpg"
 twitter_card: summary_large_image
 canonical: "https://wristnerd.xyz/reviews/tissot-gentleman-powermatic-80/"
 word_count_target: "1,800–2,200"
-last_updated: "2026-03-15"
+last_updated: "2026-03-16"
 author: "WristNerd Editorial Team"
 pinterest_pin_ideas:
   - "Tissot Gentleman Review — Best Swiss Dress Watch Under $700 (Watch Reviews board)"
@@ -83,7 +83,7 @@ The Tissot Gentleman Powermatic 80 is the watch you'd find on the wrist of the g
 | Quality | ★★★★★ 4.9 / 5 |
 | Wearability | ★★★★★ 4.8 / 5 |
 
-**[Check Price on Amazon →](AFFILIATE_LINK_TISSOT_GENTLEMAN_P80)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B084BNQFWV?tag=wristnerd-20)**
 <!-- CTA: Gold button, full-width within right column -->
 <!-- rel="nofollow sponsored" -->
 
@@ -203,7 +203,7 @@ The butterfly deployant clasp opens from the center and sits flush against the u
 **Best gift occasions:** Anniversary (5th, 10th, 15th+), Promotion, Milestone Birthday (40th, 50th), Valentine's Day
 **Best recipients:** Husbands, dads (professional), boyfriends (serious relationships)
 
-**[Check Price on Amazon →](AFFILIATE_LINK_TISSOT_GENTLEMAN_P80)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B084BNQFWV?tag=wristnerd-20)**
 
 ---
 
@@ -258,7 +258,7 @@ The Gentleman isn't for everyone. It's dressy. It's refined. It's designed for m
 
 It is, quite simply, the watch a gentleman would choose.
 
-**[Check Price on Amazon →](AFFILIATE_LINK_TISSOT_GENTLEMAN_P80)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B084BNQFWV?tag=wristnerd-20)**
 
 **[Compare with Tissot PRX Powermatic 80 →](/reviews/tissot-prx-powermatic-80/)**
 
@@ -268,10 +268,10 @@ It is, quite simply, the watch a gentleman would choose.
 
 | Retailer | Typical Price | Link |
 |----------|---------------|------|
-| **Amazon** | $550–$650 | [Check Price →](AFFILIATE_LINK_TISSOT_GENTLEMAN_P80) |
-| **Tissot Official** | $695 (MSRP) | [Check Price →](AFFILIATE_LINK_TISSOT_OFFICIAL_GENTLEMAN) |
-| **Jomashop** | $480–$550 | [Check Price →](AFFILIATE_LINK_JOMASHOP_TISSOT_GENTLEMAN) |
-| **Macy's** | $575–$695 | [Check Price →](AFFILIATE_LINK_MACYS_TISSOT_GENTLEMAN) |
+| **Amazon** | $550–$650 | [Check Price →](https://www.amazon.com/dp/B084BNQFWV?tag=wristnerd-20) |
+| **Tissot Official** | $695 (MSRP) | [Check Price →](https://www.tissotwatches.com/en-us/collection/tissot-gentleman.html) |
+| **Jomashop** | $480–$550 | [Check Price →](https://www.jomashop.com/tissot-gentleman.html) |
+| **Macy's** | $575–$695 | [Check Price →](https://www.macys.com/shop/watches/tissot?id=65498&tag=wristnerd-20) |
 
 <!-- All links: rel="nofollow sponsored" -->
 

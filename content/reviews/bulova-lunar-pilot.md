@@ -15,7 +15,7 @@ og_image: "/images/og/bulova-lunar-pilot-review-og.jpg"
 twitter_card: summary_large_image
 canonical: "https://wristnerd.xyz/reviews/bulova-lunar-pilot/"
 word_count_target: "1,800–2,200"
-last_updated: "2026-03-15"
+last_updated: "2026-03-16"
 author: "WristNerd Editorial Team"
 pinterest_pin_ideas:
   - "Bulova Lunar Pilot Review — The Moon Watch Under $500 (Watch Reviews board)"
@@ -83,7 +83,7 @@ The Bulova Lunar Pilot is the only watch in our catalog that went to the moon �
 | Quality | ★★★★½ 4.5 / 5 |
 | Wearability | ★★★★☆ 4.0 / 5 |
 
-**[Check Price on Amazon →](AFFILIATE_LINK_BULOVA_LUNAR_PILOT)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B01AJE27FM?tag=wristnerd-20)**
 <!-- CTA: Gold button, full-width within right column -->
 <!-- rel="nofollow sponsored" -->
 
@@ -202,7 +202,7 @@ On 7"+ wrists, it wears confidently — the thickness sits proportionally, and t
 **Best gift occasions:** Father's Day, Birthday, Christmas, Retirement, Graduation
 **Best recipients:** Dads, husbands (casual/active), sons, friends, space/science/history enthusiasts
 
-**[Check Price on Amazon →](AFFILIATE_LINK_BULOVA_LUNAR_PILOT)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B01AJE27FM?tag=wristnerd-20)**
 
 ---
 
@@ -257,7 +257,7 @@ Every watch in our catalog has merits. The Presage has the most stunning dial. T
 
 The size is the limitation — at 45mm, it's not for everyone. But for the man who wears it, the Lunar Pilot becomes part of his identity. It's the watch people ask about. It's the watch with the story. And the story is extraordinary.
 
-**[Check Price on Amazon →](AFFILIATE_LINK_BULOVA_LUNAR_PILOT)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B01AJE27FM?tag=wristnerd-20)**
 
 **[Compare with Hamilton Khaki Field Mechanical →](/reviews/hamilton-khaki-field-mechanical/)**
 
@@ -267,10 +267,10 @@ The size is the limitation — at 45mm, it's not for everyone. But for the man w
 
 | Retailer | Typical Price | Link |
 |----------|---------------|------|
-| **Amazon** | $375–$440 | [Check Price →](AFFILIATE_LINK_BULOVA_LUNAR_PILOT) |
-| **Bulova Official** | $475 (MSRP) | [Check Price →](AFFILIATE_LINK_BULOVA_OFFICIAL_LUNAR) |
-| **Jomashop** | $340–$395 | [Check Price →](AFFILIATE_LINK_JOMASHOP_BULOVA_LUNAR) |
-| **Macy's** | $375–$475 | [Check Price →](AFFILIATE_LINK_MACYS_BULOVA_LUNAR) |
+| **Amazon** | $375–$440 | [Check Price →](https://www.amazon.com/dp/B01AJE27FM?tag=wristnerd-20) |
+| **Bulova Official** | $475 (MSRP) | [Check Price →](https://www.bulova.com/us/en/collection/lunar-pilot.html) |
+| **Jomashop** | $340–$395 | [Check Price →](https://www.jomashop.com/bulova-lunar-pilot.html) |
+| **Macy's** | $375–$475 | [Check Price →](https://www.macys.com/shop/watches/bulova?id=65498&tag=wristnerd-20) |
 
 <!-- All links: rel="nofollow sponsored" -->
 

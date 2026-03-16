@@ -15,7 +15,7 @@ og_image: "/images/og/longines-conquest-classic-review-og.jpg"
 twitter_card: summary_large_image
 canonical: "https://wristnerd.xyz/reviews/longines-conquest-classic/"
 word_count_target: "1,800–2,200"
-last_updated: "2026-03-15"
+last_updated: "2026-03-16"
 author: "WristNerd Editorial Team"
 pinterest_pin_ideas:
   - "Longines Conquest Classic Review — Best Entry-Level Luxury Watch (Watch Reviews board)"
@@ -83,7 +83,7 @@ The Longines Conquest Classic is the threshold to genuine luxury watchmaking. Lo
 | Quality | ★★★★★ 5.0 / 5 |
 | Wearability | ★★★★★ 4.8 / 5 |
 
-**[Check Price on Amazon →](AFFILIATE_LINK_LONGINES_CONQUEST_CLASSIC)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B004FI6P1E?tag=wristnerd-20)**
 <!-- CTA: Gold button, full-width within right column -->
 <!-- rel="nofollow sponsored" -->
 
@@ -203,7 +203,7 @@ The butterfly clasp opens from the center and locks securely. Bracelet sizing is
 **Best gift occasions:** Anniversary (10th, 15th, 20th+), Milestone Birthday (40th, 50th), Retirement, Major Promotion
 **Best recipients:** Husbands, dads (milestone moments)
 
-**[Check Price on Amazon →](AFFILIATE_LINK_LONGINES_CONQUEST_CLASSIC)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B004FI6P1E?tag=wristnerd-20)**
 
 ---
 
@@ -258,7 +258,7 @@ The Conquest Classic is that moment. It bridges the gap between the excellent Sw
 
 For a landmark anniversary, a retirement, a major birthday, or any moment where the gift needs to say "you are worth this" — the Conquest Classic is the answer.
 
-**[Check Price on Amazon →](AFFILIATE_LINK_LONGINES_CONQUEST_CLASSIC)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B004FI6P1E?tag=wristnerd-20)**
 
 **[Compare with Tissot Gentleman Powermatic 80 →](/reviews/tissot-gentleman-powermatic-80/)**
 
@@ -268,10 +268,10 @@ For a landmark anniversary, a retirement, a major birthday, or any moment where 
 
 | Retailer | Typical Price | Link |
 |----------|---------------|------|
-| **Amazon** | $1,000–$1,200 | [Check Price →](AFFILIATE_LINK_LONGINES_CONQUEST_CLASSIC) |
-| **Longines Official** | $1,300 (MSRP) | [Check Price →](AFFILIATE_LINK_LONGINES_OFFICIAL) |
-| **Jomashop** | $875–$1,050 | [Check Price →](AFFILIATE_LINK_JOMASHOP_LONGINES_CONQUEST) |
-| **Macy's** | $1,050–$1,300 | [Check Price →](AFFILIATE_LINK_MACYS_LONGINES_CONQUEST) |
+| **Amazon** | $1,000–$1,200 | [Check Price →](https://www.amazon.com/dp/B004FI6P1E?tag=wristnerd-20) |
+| **Longines Official** | $1,300 (MSRP) | [Check Price →](https://www.longines.com/en-us/watchmaking-tradition/conquest.html) |
+| **Jomashop** | $875–$1,050 | [Check Price →](https://www.jomashop.com/longines-conquest.html) |
+| **Macy's** | $1,050–$1,300 | [Check Price →](https://www.macys.com/shop/watches/longines?id=65498&tag=wristnerd-20) |
 
 <!-- All links: rel="nofollow sponsored" -->
 

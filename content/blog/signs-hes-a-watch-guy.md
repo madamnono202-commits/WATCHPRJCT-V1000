@@ -13,7 +13,7 @@ og_image: "/images/og/signs-hes-a-watch-guy-og.jpg"
 twitter_card: summary_large_image
 canonical: "https://wristnerd.xyz/blog/signs-hes-a-watch-guy/"
 word_count_target: "1,200–2,000"
-last_updated: "2026-03-15"
+last_updated: "2026-03-16"
 author: "WristNerd Editorial Team"
 pinterest_pin_ideas:
   - "7 Signs He's a Watch Guy — Gift Buyer's Cheat Sheet (Gift Ideas board)"

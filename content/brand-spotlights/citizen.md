@@ -15,7 +15,7 @@ og_image: "/images/og/citizen-brand-spotlight-og.jpg"
 twitter_card: summary_large_image
 canonical: "https://wristnerd.xyz/brands/citizen/"
 word_count_target: "1,500–2,500"
-last_updated: "2026-03-15"
+last_updated: "2026-03-16"
 author: "WristNerd Editorial Team"
 pinterest_pin_ideas:
   - "Best Citizen Eco-Drive Watches for Gifting — Solar-Powered Picks (Men's Watches board)"
@@ -126,7 +126,7 @@ Is it going to produce a jaw-drop moment? No. But it'll produce something better
 **Best for:** Father's Day, Birthday, Christmas
 **Best recipients:** Dads, Friends, Colleagues, Budget-conscious gifts
 
-**[Check Price on Amazon →](AFFILIATE_LINK_CITIZEN_ECODRIVE_BM8180)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B000EQS1JW?tag=wristnerd-20)**
 
 [Read Full Review →](/reviews/citizen-eco-drive-bm8180/)
 
@@ -170,7 +170,7 @@ At $130–$165, it hits the gift-giving sweet spot: expensive enough to feel mea
 **Best for:** Father's Day, Birthday, Christmas
 **Best recipients:** Dads, Husbands, Boyfriends (casual style)
 
-**[Check Price on Amazon →](AFFILIATE_LINK_CITIZEN_CHANDLER)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B00KCF7JL6?tag=wristnerd-20)**
 
 ---
 
@@ -212,7 +212,7 @@ This is the Citizen you give when you want something that looks more expensive t
 **Best for:** Anniversary, Valentine's Day, Milestone Birthday
 **Best recipients:** Husbands, Boyfriends, Dads (dress occasions)
 
-**[Check Price on Amazon →](AFFILIATE_LINK_CITIZEN_CORSO)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B003YKX6PG?tag=wristnerd-20)**
 
 ---
 
@@ -254,7 +254,7 @@ The blue dial variant (BN0151-09L) is the standout — a rich, deep blue that ph
 **Best for:** Birthday, Father's Day, Christmas
 **Best recipients:** Active Dads, Outdoorsy Husbands, Divers, Travelers
 
-**[Check Price on Amazon →](AFFILIATE_LINK_CITIZEN_PROMASTER_DIVER)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B016R90VBK?tag=wristnerd-20)**
 
 ---
 

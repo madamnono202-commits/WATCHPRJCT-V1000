@@ -15,7 +15,7 @@ og_image: "/images/og/orient-bambino-v2-review-og.jpg"
 twitter_card: summary_large_image
 canonical: "https://wristnerd.xyz/reviews/orient-bambino-v2/"
 word_count_target: "1,800–2,200"
-last_updated: "2026-03-15"
+last_updated: "2026-03-16"
 author: "WristNerd Editorial Team"
 pinterest_pin_ideas:
   - "Orient Bambino V2 Review — Best Automatic Dress Watch Under $200 (Watch Reviews board)"
@@ -88,7 +88,7 @@ The most impressive automatic dress watch under $200 — and it's not a debate. 
 
 <!-- Rating bars: CSS-only bar chart, navy fill, gold accent on active portion -->
 
-**[Check Price on Amazon →](AFFILIATE_LINK_ORIENT_BAMBINO_V2)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B01MZGZHQC?tag=wristnerd-20)**
 <!-- CTA: Gold button, full-width within right column -->
 <!-- rel="nofollow sponsored" -->
 
@@ -238,7 +238,7 @@ The Gift-Worthiness Score measures what spec sheets can't: how impressive is thi
 **Best gift occasions:** Anniversary (1st–5th), Birthday, Valentine's Day, Graduation
 **Best recipients:** Husbands, boyfriends, sons, dads
 
-**[Check Price on Amazon →](AFFILIATE_LINK_ORIENT_BAMBINO_V2)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B01MZGZHQC?tag=wristnerd-20)**
 <!-- CTA: Gold button, centered -->
 
 ---
@@ -315,7 +315,7 @@ The compromises are real: limited water resistance, a cheap stock strap, and a n
 
 That's what a gift should do. And the Bambino does it better than anything in its price galaxy.
 
-**[Check Price on Amazon →](AFFILIATE_LINK_ORIENT_BAMBINO_V2)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B01MZGZHQC?tag=wristnerd-20)**
 
 **[Compare with Seiko Presage SRPD37 →](/reviews/seiko-presage-srpd37/)**
 
@@ -330,9 +330,9 @@ That's what a gift should do. And the Bambino does it better than anything in it
 
 | Retailer | Typical Price | Link |
 |----------|---------------|------|
-| **Amazon** | $130–$160 | [Check Price →](AFFILIATE_LINK_ORIENT_BAMBINO_V2) |
-| **Long Island Watch** | $135–$155 | [Check Price →](AFFILIATE_LINK_LIW_ORIENT_BAMBINO) |
-| **Jomashop** | $125–$145 | [Check Price →](AFFILIATE_LINK_JOMASHOP_ORIENT_BAMBINO) |
+| **Amazon** | $130–$160 | [Check Price →](https://www.amazon.com/dp/B01MZGZHQC?tag=wristnerd-20) |
+| **Long Island Watch** | $135–$155 | [Check Price →](https://www.longislandwatch.com/orient-bambino/) |
+| **Jomashop** | $125–$145 | [Check Price →](https://www.jomashop.com/orient-bambino.html) |
 
 <!-- All links: rel="nofollow sponsored" -->
 

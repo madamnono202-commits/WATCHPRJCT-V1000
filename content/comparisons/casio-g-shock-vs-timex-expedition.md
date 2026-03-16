@@ -14,7 +14,7 @@ og_image: "/images/og/casio-g-shock-vs-timex-expedition-og.jpg"
 twitter_card: summary_large_image
 canonical: "https://wristnerd.xyz/compare/casio-g-shock-vs-timex-expedition/"
 word_count_target: "2,000–3,000"
-last_updated: "2026-03-15"
+last_updated: "2026-03-16"
 author: "WristNerd Editorial Team"
 pinterest_pin_ideas:
   - "Casio G-Shock vs Timex Expedition — Best Rugged Gift Watch (Watch Comparisons board)"
@@ -53,7 +53,7 @@ Two of the toughest affordable watches on the market — but they take very diff
 | **Gift-Worthiness** | 7.5 / 10 | 7.0 / 10 |
 | **Price** | $80–$110 | $40–$65 |
 
-**[Check Price →](AFFILIATE_LINK_CASIO_GSHOCK_GA2100)** | **[Check Price →](AFFILIATE_LINK_TIMEX_EXPEDITION)**
+**[Check Price →](https://www.amazon.com/dp/B07WGJR9R2?tag=wristnerd-20)** | **[Check Price →](https://www.amazon.com/dp/B00YTYI37E?tag=wristnerd-20)**
 
 ---
 
@@ -61,7 +61,7 @@ Two of the toughest affordable watches on the market — but they take very diff
 
 **"Better build quality, more impressive gift presence, and legitimate shock resistance — the 'CasiOak' is the rugged gift to beat under $150."**
 
-**[Check Price on Amazon →](AFFILIATE_LINK_CASIO_GSHOCK_GA2100)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B07WGJR9R2?tag=wristnerd-20)**
 
 ---
 
@@ -169,7 +169,7 @@ The Timex Expedition is a sweet, practical gift — but it doesn't create the sa
 - You want a gift that looks and feels substantial
 - Budget is $80–$110
 
-**[Check Price on Amazon →](AFFILIATE_LINK_CASIO_GSHOCK_GA2100)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B07WGJR9R2?tag=wristnerd-20)**
 
 [Read Full G-Shock GA2100 Review →](/reviews/casio-g-shock-ga2100/)
 
@@ -181,7 +181,7 @@ The Timex Expedition is a sweet, practical gift — but it doesn't create the sa
 - It's a stocking stuffer, add-on, or casual gift
 - He values Indiglo for nighttime readability
 
-**[Check Price on Amazon →](AFFILIATE_LINK_TIMEX_EXPEDITION)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B00YTYI37E?tag=wristnerd-20)**
 
 ---
 

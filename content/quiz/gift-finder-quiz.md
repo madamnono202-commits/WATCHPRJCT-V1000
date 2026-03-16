@@ -13,7 +13,7 @@ og_image: "/images/og/gift-finder-quiz-og.jpg"
 twitter_card: summary_large_image
 canonical: "https://wristnerd.xyz/gift-finder/"
 word_count_target: "800–1,200 (quiz UI) + results content"
-last_updated: "2026-03-15"
+last_updated: "2026-03-16"
 author: "WristNerd Editorial Team"
 pinterest_pin_ideas:
   - "Not Sure What Watch to Get Him? Take This 60-Second Quiz (Gift Ideas board)"
@@ -231,7 +231,7 @@ const watchDatabase = [
     recipients: ["husband", "boyfriend", "dad", "son", "friend", "self"],
     gift_worthiness_score: 9.2,
     image: "/images/products/seiko-presage-srpd37.webp",
-    affiliate_link: "AFFILIATE_LINK_SEIKO_PRESAGE_SRPD37",
+    affiliate_link: "https://www.amazon.com/dp/B07QK4BXG5?tag=wristnerd-20",
     one_liner: "A cocktail-inspired automatic with a color-shifting dial that looks $300 more expensive than it is."
   },
   {
@@ -246,7 +246,7 @@ const watchDatabase = [
     recipients: ["husband", "boyfriend", "dad", "son", "friend", "self"],
     gift_worthiness_score: 9.1,
     image: "/images/products/orient-bambino-v2.webp",
-    affiliate_link: "AFFILIATE_LINK_ORIENT_BAMBINO_V2",
+    affiliate_link: "https://www.amazon.com/dp/B01MZGZHQC?tag=wristnerd-20",
     one_liner: "The best automatic dress watch under $200 — domed crystal, exhibition caseback, and stunning value."
   },
   {
@@ -261,7 +261,7 @@ const watchDatabase = [
     recipients: ["husband", "boyfriend", "dad", "self"],
     gift_worthiness_score: 9.3,
     image: "/images/products/tissot-prx-powermatic-80.webp",
-    affiliate_link: "AFFILIATE_LINK_TISSOT_PRX_P80",
+    affiliate_link: "https://www.amazon.com/dp/B09GFNP3RG?tag=wristnerd-20",
     one_liner: "Swiss automatic with an integrated bracelet that rivals $5,000+ luxury designs."
   },
   {
@@ -276,7 +276,7 @@ const watchDatabase = [
     recipients: ["husband", "boyfriend", "son", "self"],
     gift_worthiness_score: 8.9,
     image: "/images/products/tissot-prx-quartz.webp",
-    affiliate_link: "AFFILIATE_LINK_TISSOT_PRX",
+    affiliate_link: "https://www.amazon.com/dp/B08WHRY241?tag=wristnerd-20",
     one_liner: "The same iconic PRX design with Swiss quartz reliability — $100+ less than the automatic."
   },
   {
@@ -291,7 +291,7 @@ const watchDatabase = [
     recipients: ["husband", "dad", "self"],
     gift_worthiness_score: 9.0,
     image: "/images/products/hamilton-khaki-field.webp",
-    affiliate_link: "AFFILIATE_LINK_HAMILTON_KHAKI_FIELD",
+    affiliate_link: "https://www.amazon.com/dp/B000J179X6?tag=wristnerd-20",
     one_liner: "Swiss-made field watch with military heritage and an 80-hour power reserve."
   },
   {
@@ -306,7 +306,7 @@ const watchDatabase = [
     recipients: ["dad", "son", "friend", "self"],
     gift_worthiness_score: 7.8,
     image: "/images/products/citizen-bm8180.webp",
-    affiliate_link: "AFFILIATE_LINK_CITIZEN_ECODRIVE_BM8180",
+    affiliate_link: "https://www.amazon.com/dp/B000EQS1JW?tag=wristnerd-20",
     one_liner: "Solar-powered, 100m water resistant, and universally flattering — the king of under-$100 watches."
   },
   {
@@ -321,7 +321,7 @@ const watchDatabase = [
     recipients: ["boyfriend", "son", "friend", "self"],
     gift_worthiness_score: 7.5,
     image: "/images/products/casio-gshock-ga2100.webp",
-    affiliate_link: "AFFILIATE_LINK_CASIO_GSHOCK_GA2100",
+    affiliate_link: "https://www.amazon.com/dp/B07WGJR9R2?tag=wristnerd-20",
     one_liner: "The 'CasiOak' — virtually indestructible, surprisingly stylish, and under $100."
   },
   {
@@ -336,7 +336,7 @@ const watchDatabase = [
     recipients: ["boyfriend", "son", "friend", "self"],
     gift_worthiness_score: 8.4,
     image: "/images/products/seiko-5-srpd55.webp",
-    affiliate_link: "AFFILIATE_LINK_SEIKO_5_SRPD55",
+    affiliate_link: "https://www.amazon.com/dp/B07WGMQBPF?tag=wristnerd-20",
     one_liner: "Versatile automatic sport watch — office to gym to dinner on a steel bracelet."
   },
   {
@@ -351,7 +351,7 @@ const watchDatabase = [
     recipients: ["husband", "dad", "friend", "self"],
     gift_worthiness_score: 8.6,
     image: "/images/products/bulova-lunar-pilot.webp",
-    affiliate_link: "AFFILIATE_LINK_BULOVA_LUNAR_PILOT",
+    affiliate_link: "https://www.amazon.com/dp/B01AJE27FM?tag=wristnerd-20",
     one_liner: "The chronograph that went to the moon — Apollo 15 heritage with sapphire crystal."
   },
   {
@@ -366,7 +366,7 @@ const watchDatabase = [
     recipients: ["son", "dad", "boyfriend", "self"],
     gift_worthiness_score: 8.2,
     image: "/images/products/timex-marlin-automatic.webp",
-    affiliate_link: "AFFILIATE_LINK_TIMEX_MARLIN",
+    affiliate_link: "https://www.amazon.com/dp/B083XVJQPD?tag=wristnerd-20",
     one_liner: "Vintage-inspired automatic with 170+ years of American heritage."
   },
   {
@@ -381,7 +381,7 @@ const watchDatabase = [
     recipients: ["husband", "dad", "self"],
     gift_worthiness_score: 9.4,
     image: "/images/products/tissot-gentleman-p80.webp",
-    affiliate_link: "AFFILIATE_LINK_TISSOT_GENTLEMAN",
+    affiliate_link: "https://www.amazon.com/dp/B07VW8MP96?tag=wristnerd-20",
     one_liner: "Swiss automatic with sapphire crystal and finishing that rivals $2,000 watches."
   },
   {
@@ -396,7 +396,7 @@ const watchDatabase = [
     recipients: ["dad", "friend", "self"],
     gift_worthiness_score: 7.9,
     image: "/images/products/citizen-chandler.webp",
-    affiliate_link: "AFFILIATE_LINK_CITIZEN_CHANDLER",
+    affiliate_link: "https://www.amazon.com/dp/B00KCF7JL6?tag=wristnerd-20",
     one_liner: "Solar-powered field watch — zero maintenance, 100m WR, reliable daily wearer."
   },
   {
@@ -411,7 +411,7 @@ const watchDatabase = [
     recipients: ["boyfriend", "friend", "son", "self"],
     gift_worthiness_score: 7.4,
     image: "/images/products/fossil-neutra.webp",
-    affiliate_link: "AFFILIATE_LINK_FOSSIL_NEUTRA",
+    affiliate_link: "https://www.amazon.com/dp/B07B9X584N?tag=wristnerd-20",
     one_liner: "Minimalist fashion chronograph — clean design, decent quality, easy gift."
   }
 ];

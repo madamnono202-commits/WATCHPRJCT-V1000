@@ -14,7 +14,7 @@ og_image: "/images/og/homepage-og.jpg"
 twitter_card: summary_large_image
 canonical: "https://wristnerd.xyz/"
 word_count_target: "1,200–1,500"
-last_updated: "2026-03-15"
+last_updated: "2026-03-16"
 pinterest_pin_ideas:
   - "Best Watch Gifts for Men — Curated by Experts (pin to Gift Ideas board)"
   - "Watch Gift Guide 2026 — Find His Perfect Watch (pin to Men's Fashion board)"
@@ -169,7 +169,7 @@ These are the watches we keep recommending to friends and family. Tried, tested,
 
 The Seiko Presage SRPD37 is the kind of watch that makes people ask, "Where did you get that?" The cocktail-inspired dial catches light in a way that photos can't capture, and the automatic movement means he'll never need a battery. It looks like a $600 watch — but it's not.
 
-**[Check Price on Amazon →](AFFILIATE_LINK_SEIKO_PRESAGE_SRPD37)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B07QK4BXG5?tag=wristnerd-20)**
 <!-- CTA: Gold button, full card width -->
 
 [Read Full Review →](/reviews/seiko-presage-srpd37/)
@@ -188,7 +188,7 @@ The Seiko Presage SRPD37 is the kind of watch that makes people ask, "Where did 
 
 The Tissot PRX has been one of the most talked-about watches in recent years — and for good reason. That integrated bracelet design gives it a luxury feel that punches miles above its price. Swiss-made quality your dad or grad will appreciate every time they check the time.
 
-**[Check Price on Amazon →](AFFILIATE_LINK_TISSOT_PRX)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B08WHRY241?tag=wristnerd-20)**
 <!-- CTA: Gold button, full card width -->
 
 [Read Full Review →](/reviews/tissot-prx/)
@@ -207,7 +207,7 @@ The Tissot PRX has been one of the most talked-about watches in recent years —
 
 If you want a watch that looks and feels expensive without the luxury price tag, the Orient Bambino is your answer. The domed crystal, classic dial, and automatic movement create a package that watch enthusiasts have loved for years. It's the most-recommended gift watch in our collection for a reason.
 
-**[Check Price on Amazon →](AFFILIATE_LINK_ORIENT_BAMBINO_V2)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B01MZGZHQC?tag=wristnerd-20)**
 <!-- CTA: Gold button, full card width -->
 
 [Read Full Review →](/reviews/orient-bambino-v2/)

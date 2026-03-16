@@ -15,7 +15,7 @@ og_image: "/images/og/tissot-brand-spotlight-og.jpg"
 twitter_card: summary_large_image
 canonical: "https://wristnerd.xyz/brands/tissot/"
 word_count_target: "1,500–2,500"
-last_updated: "2026-03-15"
+last_updated: "2026-03-16"
 author: "WristNerd Editorial Team"
 pinterest_pin_ideas:
   - "Best Tissot Watches for Gifting — Swiss Quality He'll Love (Men's Watches board)"
@@ -114,7 +114,7 @@ This is the watch that gets compliments. It's the watch that people notice acros
 **Best for:** Birthday, Graduation, Anniversary, Father's Day
 **Best recipients:** Style-conscious men, Boyfriends, Sons, Husbands
 
-**[Check Price on Amazon →](AFFILIATE_LINK_TISSOT_PRX)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B08WHRY241?tag=wristnerd-20)**
 
 [Read Full Review →](/reviews/tissot-prx/)
 
@@ -160,7 +160,7 @@ This is the "special occasion" Tissot. Anniversary, milestone birthday, promotio
 **Best for:** Anniversary, Milestone Birthday, Promotion, Valentine's Day
 **Best recipients:** Husbands, Boyfriends, Dads (special occasions)
 
-**[Check Price on Amazon →](AFFILIATE_LINK_TISSOT_PRX_POWERMATIC)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B09GFNP3RG?tag=wristnerd-20)**
 
 [Read Full Review →](/reviews/tissot-prx-powermatic-80/)
 
@@ -208,7 +208,7 @@ The silicon hairspring is worth noting: it makes the movement more resistant to 
 **Best for:** Anniversary, Valentine's Day, Promotion, Father's Day
 **Best recipients:** Husbands, Dads, Professional men
 
-**[Check Price on Amazon →](AFFILIATE_LINK_TISSOT_GENTLEMAN)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B07VW8MP96?tag=wristnerd-20)**
 
 [Read Full Review →](/reviews/tissot-gentleman-powermatic-80/)
 
@@ -254,7 +254,7 @@ It's the watch you give to the man who appreciates history, who notices the deta
 **Best for:** Anniversary, Birthday, Father's Day
 **Best recipients:** Dads, Husbands, Vintage style lovers
 
-**[Check Price on Amazon →](AFFILIATE_LINK_TISSOT_VISODATE)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B0041Q44T2?tag=wristnerd-20)**
 
 ---
 

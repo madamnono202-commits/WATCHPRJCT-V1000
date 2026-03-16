@@ -15,7 +15,7 @@ og_image: "/images/og/tissot-prx-review-og.jpg"
 twitter_card: summary_large_image
 canonical: "https://wristnerd.xyz/reviews/tissot-prx/"
 word_count_target: "1,800–2,200"
-last_updated: "2026-03-15"
+last_updated: "2026-03-16"
 author: "WristNerd Editorial Team"
 pinterest_pin_ideas:
   - "Tissot PRX Review — The Most Versatile Gift Watch Under $400 (Watch Reviews board)"
@@ -88,7 +88,7 @@ The watch that rebooted Tissot's entire identity. The integrated steel bracelet 
 
 <!-- Rating bars: CSS-only bar chart, navy fill, gold accent on active portion -->
 
-**[Check Price on Amazon →](AFFILIATE_LINK_TISSOT_PRX)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B08WHRY241?tag=wristnerd-20)**
 <!-- CTA: Gold button, full-width within right column -->
 <!-- rel="nofollow sponsored" -->
 
@@ -238,7 +238,7 @@ The Gift-Worthiness Score measures what spec sheets can't: how impressive is thi
 **Best gift occasions:** Birthday, Valentine's Day, Christmas, Anniversary, Graduation
 **Best recipients:** Boyfriends, husbands, sons
 
-**[Check Price on Amazon →](AFFILIATE_LINK_TISSOT_PRX)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B08WHRY241?tag=wristnerd-20)**
 <!-- CTA: Gold button, centered -->
 
 ---
@@ -313,7 +313,7 @@ The quartz movement is the only thing keeping this from a perfect score. For wat
 
 At $325–$375 for sapphire, Swiss quartz, integrated steel, and 100m water resistance, the PRX doesn't just compete with watches at its price. It embarrasses them.
 
-**[Check Price on Amazon →](AFFILIATE_LINK_TISSOT_PRX)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B08WHRY241?tag=wristnerd-20)**
 
 **[Compare with Tissot PRX Powermatic 80 →](/reviews/tissot-prx-powermatic-80/)**
 
@@ -328,10 +328,10 @@ At $325–$375 for sapphire, Swiss quartz, integrated steel, and 100m water resi
 
 | Retailer | Typical Price | Link |
 |----------|---------------|------|
-| **Amazon** | $325–$365 | [Check Price →](AFFILIATE_LINK_TISSOT_PRX) |
-| **Tissot Official** | $350 (MSRP) | [Check Price →](AFFILIATE_LINK_TISSOT_OFFICIAL_PRX) |
-| **Jomashop** | $285–$320 | [Check Price →](AFFILIATE_LINK_JOMASHOP_TISSOT_PRX) |
-| **Macy's** | $325–$350 | [Check Price →](AFFILIATE_LINK_MACYS_TISSOT_PRX) |
+| **Amazon** | $325–$365 | [Check Price →](https://www.amazon.com/dp/B08WHRY241?tag=wristnerd-20) |
+| **Tissot Official** | $350 (MSRP) | [Check Price →](https://www.tissotwatches.com/en-us/collection/tissot-prx.html) |
+| **Jomashop** | $285–$320 | [Check Price →](https://www.jomashop.com/tissot-prx.html) |
+| **Macy's** | $325–$350 | [Check Price →](https://www.macys.com/shop/watches/tissot?id=65498&tag=wristnerd-20) |
 
 <!-- All links: rel="nofollow sponsored" -->
 

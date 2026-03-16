@@ -14,7 +14,7 @@ og_image: "/images/og/tissot-prx-vs-hamilton-khaki-field-og.jpg"
 twitter_card: summary_large_image
 canonical: "https://wristnerd.xyz/compare/tissot-prx-vs-hamilton-khaki-field/"
 word_count_target: "2,000–3,000"
-last_updated: "2026-03-15"
+last_updated: "2026-03-16"
 author: "WristNerd Editorial Team"
 pinterest_pin_ideas:
   - "Tissot PRX vs Hamilton Khaki Field — Best Swiss Gift Watch? (Watch Comparisons board)"
@@ -53,7 +53,7 @@ Two Swiss Swatch Group siblings, two very different philosophies. The Tissot PRX
 | **Gift-Worthiness** | 8.9 / 10 | 9.0 / 10 |
 | **Price** | $325–$375 | $400–$500 |
 
-**[Check Price →](AFFILIATE_LINK_TISSOT_PRX)** | **[Check Price →](AFFILIATE_LINK_HAMILTON_KHAKI_FIELD)**
+**[Check Price →](https://www.amazon.com/dp/B08WHRY241?tag=wristnerd-20)** | **[Check Price →](https://www.amazon.com/dp/B000J179X6?tag=wristnerd-20)**
 
 ---
 
@@ -166,7 +166,7 @@ For trend-conscious, style-first men: PRX. For heritage-appreciating, story-firs
 - He prefers a steel bracelet over canvas/leather
 - You want a slightly lower price point ($325–$375)
 
-**[Check Price on Amazon →](AFFILIATE_LINK_TISSOT_PRX)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B08WHRY241?tag=wristnerd-20)**
 
 [Read Full Tissot PRX Review →](/reviews/tissot-prx/)
 
@@ -178,7 +178,7 @@ For trend-conscious, style-first men: PRX. For heritage-appreciating, story-firs
 - He prefers classic proportions (38mm)
 - The occasion calls for something with lasting meaning
 
-**[Check Price on Amazon →](AFFILIATE_LINK_HAMILTON_KHAKI_FIELD)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B000J179X6?tag=wristnerd-20)**
 
 [Read Full Hamilton Khaki Field Review →](/reviews/hamilton-khaki-field-mechanical/)
 

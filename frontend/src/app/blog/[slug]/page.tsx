@@ -36,7 +36,7 @@ export default async function BlogPostPage({ params }: PageProps) {
 
       <Breadcrumb
         items={[
-          { label: "Blog", href: "/" },
+          { label: "Blog", href: "/blog" },
           { label: page.frontmatter.title },
         ]}
       />

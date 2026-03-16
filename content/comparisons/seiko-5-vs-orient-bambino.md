@@ -14,7 +14,7 @@ og_image: "/images/og/seiko-5-vs-orient-bambino-og.jpg"
 twitter_card: summary_large_image
 canonical: "https://wristnerd.xyz/compare/seiko-5-vs-orient-bambino/"
 word_count_target: "2,000–3,000"
-last_updated: "2026-03-15"
+last_updated: "2026-03-16"
 author: "WristNerd Editorial Team"
 pinterest_pin_ideas:
   - "Seiko 5 vs Orient Bambino — The Ultimate Gift Watch Showdown (Watch Comparisons board)"
@@ -70,7 +70,7 @@ A side-by-side comparison to help you pick the right automatic watch gift under 
 | **Gift-Worthiness** | 8.4 / 10 | 9.1 / 10 |
 | **Price** | $220–$270 | $130–$170 |
 
-**[Check Price →](AFFILIATE_LINK_SEIKO_5_SRPD55)** | **[Check Price →](AFFILIATE_LINK_ORIENT_BAMBINO_V2)**
+**[Check Price →](https://www.amazon.com/dp/B07WGMQBPF?tag=wristnerd-20)** | **[Check Price →](https://www.amazon.com/dp/B01MZGZHQC?tag=wristnerd-20)**
 
 ---
 
@@ -83,7 +83,7 @@ A side-by-side comparison to help you pick the right automatic watch gift under 
 
 **"Better gift-worthiness, more dressy, incredible value — the Bambino wins for most gift-giving situations."**
 
-**[Check Price on Amazon →](AFFILIATE_LINK_ORIENT_BAMBINO_V2)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B01MZGZHQC?tag=wristnerd-20)**
 
 ---
 
@@ -218,7 +218,7 @@ This is the category that matters most for WristNerd readers — and the Bambino
 - The occasion is casual (birthday, Father's Day, graduation)
 - He already has a dress watch and needs a sport piece
 
-**[Check Price on Amazon →](AFFILIATE_LINK_SEIKO_5_SRPD55)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B07WGMQBPF?tag=wristnerd-20)**
 
 [Read Full Seiko 5 Review →](/reviews/seiko-5-srpd55/)
 
@@ -230,7 +230,7 @@ This is the category that matters most for WristNerd readers — and the Bambino
 - You want the best value automatic watch available
 - You want to make a $150 gift look like $400
 
-**[Check Price on Amazon →](AFFILIATE_LINK_ORIENT_BAMBINO_V2)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B01MZGZHQC?tag=wristnerd-20)**
 
 [Read Full Orient Bambino Review →](/reviews/orient-bambino-v2/)
 

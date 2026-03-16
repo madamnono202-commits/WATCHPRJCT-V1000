@@ -15,7 +15,7 @@ og_image: "/images/og/seiko-brand-spotlight-og.jpg"
 twitter_card: summary_large_image
 canonical: "https://wristnerd.xyz/brands/seiko/"
 word_count_target: "1,500–2,500"
-last_updated: "2026-03-15"
+last_updated: "2026-03-16"
 author: "WristNerd Editorial Team"
 pinterest_pin_ideas:
   - "Best Seiko Watches for Gifting — Our Top 5 Picks for Every Budget (Men's Watches board)"
@@ -130,7 +130,7 @@ The 40.5mm case fits most wrists perfectly, the automatic 4R35 movement is prove
 **Best for:** Birthdays, Anniversaries, Valentine's Day, Father's Day
 **Best recipients:** Husbands, Boyfriends, Dads
 
-**[Check Price on Amazon →](AFFILIATE_LINK_SEIKO_PRESAGE_SRPD37)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B07QK4BXG5?tag=wristnerd-20)**
 <!-- CTA: Gold (#C5A55A), full-width on mobile -->
 
 [Read Full Review →](/reviews/seiko-presage-srpd37/)
@@ -177,7 +177,7 @@ If he's active, outdoorsy, or simply prefers a watch he doesn't have to baby, th
 **Best for:** Birthdays, Father's Day, Graduation, Christmas
 **Best recipients:** Sons, Boyfriends, Friends, Active Dads
 
-**[Check Price on Amazon →](AFFILIATE_LINK_SEIKO_5_SRPD55)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B07WGMQBPF?tag=wristnerd-20)**
 
 [Read Full Review →](/reviews/seiko-5-srpd55/)
 
@@ -221,7 +221,7 @@ The same cocktail-inspired design language is here, but elevated. The dial has m
 **Best for:** Anniversary, Valentine's Day, Milestone Birthdays
 **Best recipients:** Husbands, Boyfriends, Dads (special occasions)
 
-**[Check Price on Amazon →](AFFILIATE_LINK_SEIKO_PRESAGE_SSA346)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B074KBNM1P?tag=wristnerd-20)**
 
 ---
 
@@ -263,7 +263,7 @@ Solar-powered means no battery changes, ever. The clean dial is versatile enough
 **Best for:** Christmas, Father's Day, Birthday (casual)
 **Best recipients:** Dads, Friends, Colleagues
 
-**[Check Price on Amazon →](AFFILIATE_LINK_SEIKO_SOLAR_SNE529)**
+**[Check Price on Amazon →](https://www.amazon.com/dp/B07YDBQGRY?tag=wristnerd-20)**
 
 ---
 
