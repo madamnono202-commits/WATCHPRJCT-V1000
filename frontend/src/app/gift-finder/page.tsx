@@ -282,17 +282,18 @@ export default function GiftFinderPage() {
     const results = getRecommendations(answers as Answers);
 
     return (
-      <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-16 lg:py-20">
-        <div className="text-center mb-12">
-          <div className="flex items-center justify-center gap-3 mb-4">
-            <div className="h-px w-8 bg-gold/50" />
-            <span className="text-gold text-xs font-bold uppercase tracking-[0.15em]">Your Results</span>
-            <div className="h-px w-8 bg-gold/50" />
+      <div className="bg-ivory min-h-screen">
+        <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-20 lg:py-28">
+        <div className="text-center mb-14">
+          <div className="flex items-center justify-center gap-3 mb-5">
+            <div className="h-px w-10 bg-gradient-to-r from-transparent to-gold/50" />
+            <span className="luxury-label text-gold">Your Results</span>
+            <div className="h-px w-10 bg-gradient-to-l from-transparent to-gold/50" />
           </div>
-          <h1 className="text-3xl md:text-4xl font-heading font-bold text-navy mb-4">
+          <h1 className="text-3xl md:text-4xl lg:text-5xl font-heading font-bold text-navy mb-5 leading-tight">
             Your Perfect Watch Matches
           </h1>
-          <p className="text-gray-500 leading-relaxed">
+          <p className="text-gray-500 leading-relaxed font-light">
             Based on your answers, here are the watches we recommend &mdash; sorted by
             Gift-Worthiness Score.
           </p>
@@ -325,8 +326,8 @@ export default function GiftFinderPage() {
               )}
 
               <div className="flex flex-col md:flex-row gap-6">
-                <div className="w-full md:w-44 h-44 bg-gradient-to-br from-gray-50 to-gray-100 rounded-2xl flex items-center justify-center shrink-0">
-                  <span className="text-gray-300 text-sm">Watch Image</span>
+                  <div className="w-full md:w-44 h-44 bg-gradient-to-br from-pearl to-gray-100 rounded-2xl flex items-center justify-center shrink-0">
+                    <span className="text-gray-300 text-sm font-light">Watch Image</span>
                 </div>
                 <div className="flex-1">
                   <h2 className="text-xl font-heading font-semibold text-navy mb-2">
@@ -343,13 +344,13 @@ export default function GiftFinderPage() {
                       {watch.movement}
                     </span>
                   </div>
-                  <p className="text-gray-600 mb-5 leading-relaxed">{watch.one_liner}</p>
+                  <p className="text-gray-600 mb-5 leading-relaxed font-light">{watch.one_liner}</p>
                   <div className="flex flex-wrap gap-3">
                     <a
                       href="#"
                       rel="nofollow sponsored noopener"
                       target="_blank"
-                      className="inline-flex items-center gap-2 px-6 py-3 cta-shine text-white font-semibold rounded-full text-sm min-h-[48px]"
+                      className="inline-flex items-center gap-2 px-6 py-3 cta-shine text-white font-semibold rounded-full text-sm min-h-[48px] hover:shadow-[0_8px_30px_rgba(201,169,110,0.3)] transition-all duration-500"
                     >
                       Check Price on Amazon
                       <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -358,7 +359,7 @@ export default function GiftFinderPage() {
                     </a>
                     <Link
                       href={watch.slug}
-                      className="inline-flex items-center px-6 py-3 border-2 border-navy text-navy font-semibold rounded-full hover:bg-navy hover:text-white transition-all duration-300 text-sm min-h-[48px]"
+                      className="inline-flex items-center px-6 py-3 border border-navy/20 text-navy font-semibold rounded-full hover:bg-navy hover:text-white transition-all duration-500 text-sm min-h-[48px]"
                     >
                       Read Full Review
                     </Link>
@@ -370,42 +371,43 @@ export default function GiftFinderPage() {
         </div>
 
         {results.length === 0 && (
-          <div className="text-center py-16 bg-gray-50 rounded-2xl">
+          <div className="text-center py-16 bg-white rounded-2xl border border-pearl">
             <p className="text-gray-500 mb-6 leading-relaxed">
               We couldn&apos;t find watches matching all your criteria. Try adjusting
               your budget or style preference.
             </p>
             <button
               onClick={resetQuiz}
-              className="inline-flex items-center gap-2 px-8 py-3.5 cta-shine text-white font-semibold rounded-full min-h-[48px] transition-all duration-300"
+              className="inline-flex items-center gap-2 px-8 py-3.5 cta-shine text-white font-semibold rounded-full min-h-[48px] hover:shadow-[0_8px_30px_rgba(201,169,110,0.3)] transition-all duration-500"
             >
               Retake the Quiz
             </button>
           </div>
         )}
 
-        <div className="mt-12 text-center space-y-4">
+        <div className="mt-14 text-center space-y-4">
           <button
             onClick={resetQuiz}
-            className="text-gold hover:text-gold-dark font-semibold transition-colors duration-200"
+            className="text-gold hover:text-gold-dark font-semibold transition-colors duration-300"
           >
             &larr; Retake the Quiz
           </button>
-          <div className="flex flex-wrap justify-center gap-6 text-sm text-gray-400">
-            <Link href="/reviews" className="hover:text-gold transition-colors duration-200">
+          <div className="flex flex-wrap justify-center gap-6 text-sm text-gray-400 font-light">
+            <Link href="/reviews" className="hover:text-gold transition-colors duration-300">
               See All Reviews
             </Link>
             <Link
               href="/occasion/fathers-day"
-              className="hover:text-gold transition-colors duration-200"
+              className="hover:text-gold transition-colors duration-300"
             >
               Shop by Occasion
             </Link>
-            <Link href="/budget/under-200" className="hover:text-gold transition-colors duration-200">
+            <Link href="/budget/under-200" className="hover:text-gold transition-colors duration-300">
               Shop by Budget
             </Link>
           </div>
         </div>
+      </div>
       </div>
     );
   }
@@ -413,17 +415,18 @@ export default function GiftFinderPage() {
   const step = steps[currentStep];
 
   return (
-    <div className="max-w-2xl mx-auto px-4 sm:px-6 lg:px-8 py-16 lg:py-20">
-      <div className="text-center mb-12">
-        <div className="flex items-center justify-center gap-3 mb-4">
-          <div className="h-px w-8 bg-gold/50" />
-          <span className="text-gold text-xs font-bold uppercase tracking-[0.15em]">60-Second Quiz</span>
-          <div className="h-px w-8 bg-gold/50" />
+    <div className="bg-ivory min-h-screen">
+      <div className="max-w-2xl mx-auto px-4 sm:px-6 lg:px-8 py-20 lg:py-28">
+      <div className="text-center mb-14">
+        <div className="flex items-center justify-center gap-3 mb-5">
+          <div className="h-px w-10 bg-gradient-to-r from-transparent to-gold/50" />
+          <span className="luxury-label text-gold">60-Second Quiz</span>
+          <div className="h-px w-10 bg-gradient-to-l from-transparent to-gold/50" />
         </div>
-        <h1 className="text-3xl md:text-4xl font-heading font-bold text-navy mb-3">
+        <h1 className="text-3xl md:text-4xl lg:text-5xl font-heading font-bold text-navy mb-4 leading-tight">
           Watch Gift Finder Quiz
         </h1>
-        <p className="text-gray-500 leading-relaxed">
+        <p className="text-gray-500 leading-relaxed font-light">
           Answer 4 quick questions and get personalized watch recommendations in
           60 seconds.
         </p>
@@ -441,19 +444,19 @@ export default function GiftFinderPage() {
         ))}
       </div>
 
-      <p className="text-xs text-gray-400 mb-2 uppercase tracking-wider font-medium">
+      <p className="luxury-label text-gray-400 mb-2">
         Step {currentStep + 1} of {steps.length}
       </p>
-      <h2 className="text-2xl font-heading font-semibold text-navy mb-6">
+      <h2 className="text-2xl md:text-3xl font-heading font-semibold text-navy mb-8">
         {step.title}
       </h2>
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
         {step.options.map((option) => (
           <button
             key={option.value}
             onClick={() => handleSelect(option.value)}
-            className="luxury-card p-5 text-left group hover:border-gold/50 hover:bg-gold-50/30"
+            className="luxury-card p-6 text-left group hover:border-gold/40 hover:shadow-[0_4px_20px_rgba(201,169,110,0.1)] transition-all duration-500"
           >
             <span className="text-base font-medium text-navy group-hover:text-gold transition-colors duration-300">
               {option.label}
@@ -465,7 +468,7 @@ export default function GiftFinderPage() {
       {currentStep > 0 && (
         <button
           onClick={() => setCurrentStep(currentStep - 1)}
-          className="mt-8 text-sm text-gray-400 hover:text-gold transition-colors duration-200 flex items-center gap-1"
+          className="mt-10 text-sm text-gray-400 hover:text-gold transition-colors duration-300 flex items-center gap-1.5 font-light"
         >
           <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
@@ -473,6 +476,7 @@ export default function GiftFinderPage() {
           Go Back
         </button>
       )}
+    </div>
     </div>
   );
 }

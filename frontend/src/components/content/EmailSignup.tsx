@@ -93,20 +93,20 @@ export default function EmailSignup({
   }
 
   return (
-    <div className="relative overflow-hidden bg-gradient-to-br from-navy via-navy to-navy-dark rounded-2xl p-8 md:p-10 my-10 shadow-lg">
+    <div className="relative overflow-hidden bg-gradient-to-br from-navy via-navy to-navy-dark rounded-2xl p-8 md:p-12 my-10">
       {/* Decorative elements */}
-      <div className="absolute top-0 right-0 w-64 h-64 bg-gold/5 rounded-full -translate-y-1/2 translate-x-1/2" />
-      <div className="absolute bottom-0 left-0 w-32 h-32 bg-gold/5 rounded-full translate-y-1/2 -translate-x-1/2" />
+      <div className="absolute top-0 right-0 w-[300px] h-[300px] bg-gold/[0.04] rounded-full -translate-y-1/2 translate-x-1/2 blur-[60px]" />
+      <div className="absolute bottom-0 left-0 w-[200px] h-[200px] bg-gold/[0.03] rounded-full translate-y-1/2 -translate-x-1/2 blur-[40px]" />
 
       <div className="relative z-10">
-        <div className="flex items-center gap-2 mb-3">
-          <div className="h-px w-8 bg-gold/60" />
-          <span className="text-gold text-xs font-bold uppercase tracking-[0.12em]">Newsletter</span>
+        <div className="flex items-center gap-2.5 mb-4">
+          <div className="h-px w-10 bg-gradient-to-r from-gold/60 to-transparent" />
+          <span className="luxury-label text-gold">Newsletter</span>
         </div>
-        <h3 className="text-xl md:text-2xl font-heading font-semibold text-white mb-2">
+        <h3 className="text-xl md:text-2xl font-heading font-semibold text-white mb-3">
           {heading}
         </h3>
-        <p className="text-sm text-gray-300 mb-6 max-w-lg leading-relaxed">{description}</p>
+        <p className="text-sm text-gray-400 mb-8 max-w-lg leading-relaxed font-light">{description}</p>
         {submitted ? (
           <div className="flex items-center gap-2 text-emerald-400 font-medium">
             <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -132,12 +132,12 @@ export default function EmailSignup({
               onChange={(e) => setEmail(e.target.value)}
               placeholder="Your email address"
               required
-              className="flex-1 px-5 py-3.5 rounded-full bg-white/10 border border-white/15 text-white placeholder-gray-400 text-sm focus:outline-none focus:ring-2 focus:ring-gold focus:border-transparent transition-all min-h-[48px]"
+              className="flex-1 px-5 py-3.5 rounded-full bg-white/[0.08] border border-white/[0.12] text-white placeholder-gray-500 text-sm focus:outline-none focus:ring-2 focus:ring-gold/50 focus:border-transparent transition-all duration-300 min-h-[48px]"
             />
             <button
               type="submit"
               disabled={loading}
-              className="px-7 py-3.5 cta-shine text-white font-semibold rounded-full text-sm whitespace-nowrap disabled:opacity-60 min-h-[48px]"
+              className="px-7 py-3.5 cta-shine text-white font-semibold rounded-full text-sm whitespace-nowrap disabled:opacity-60 min-h-[48px] hover:shadow-[0_8px_30px_rgba(201,169,110,0.3)] transition-all duration-500"
             >
               {loading ? "Subscribing..." : "Send Me Deals"}
             </button>
@@ -146,7 +146,7 @@ export default function EmailSignup({
         {error && (
           <p className="text-red-400 text-xs mt-3">{error}</p>
         )}
-        <p className="text-xs text-gray-500 mt-4">
+        <p className="text-xs text-gray-500 mt-5 font-light">
           Unsubscribe anytime. No spam, ever.
         </p>
       </div>
