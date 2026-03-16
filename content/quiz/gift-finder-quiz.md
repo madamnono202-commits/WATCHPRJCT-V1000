@@ -386,7 +386,7 @@ const watchDatabase = [
   },
   {
     name: "Citizen Eco-Drive Chandler",
-    slug: "/reviews/citizen-chandler/",
+    slug: "/reviews/citizen-eco-drive-bm8180/",
     price_range: "$100–$140",
     price_min: 100,
     price_max: 140,
@@ -401,7 +401,7 @@ const watchDatabase = [
   },
   {
     name: "Fossil Neutra Chronograph",
-    slug: "/reviews/fossil-neutra/",
+    slug: "/reviews/fossil-neutra-chronograph/",
     price_range: "$80–$120",
     price_min: 80,
     price_max: 120,
@@ -539,7 +539,7 @@ Get your personalized picks sent to your inbox — plus exclusive deals and pric
 **[Email Input Field]** **[Send My Results →]**
 
 <!-- Privacy note -->
-*We'll never spam you. Unsubscribe anytime. [Privacy Policy →](/privacy/)*
+*We'll never spam you. Unsubscribe anytime. [Privacy Policy →](/privacy-policy/)*
 
 ---
 
@@ -597,7 +597,7 @@ We currently track **50+ watches** across all budget ranges, styles, and occasio
 1. /reviews/seiko-presage-srpd37/ (Result card — dynamic)
 2. /reviews/orient-bambino-v2/ (Result card — dynamic)
 3. /reviews/tissot-prx-powermatic-80/ (Result card — dynamic)
-4. /privacy/ (Email capture)
+4. /privacy-policy/ (Email capture)
 5. /gift-guides/fathers-day/ (Post-results browse)
 6. /best-watches-under-200/ (Post-results browse)
 7. /reviews/ (Post-results browse)
